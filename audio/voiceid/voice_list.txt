@@ -1,0 +1,1399 @@
+=== Arabic ===
+ID: Arabic_CalmWoman
+Name: Calm Woman
+Desc: A calm adult female Arabic voice, ideal for audiobooks and serene narration.
+
+ID: Arabic_FriendlyGuy
+Name: Friendly Guy
+Desc: A natural and friendly adult male Arabic voice.
+
+------------------------------
+
+=== Cantonese ===
+ID: Cantonese_ProfessionalHost（F)
+Name: Professional Female Host
+Desc: A neutral and professional adult female host in Cantonese.
+
+ID: Cantonese_GentleLady
+Name: Gentle Lady
+Desc: A calm and gentle adult female voice in Cantonese.
+
+ID: Cantonese_ProfessionalHost（M)
+Name: Professional Male Host
+Desc: A neutral and professional adult male host in Cantonese.
+
+ID: Cantonese_PlayfulMan
+Name: Playful Man
+Desc: A soulful and playful adult male voice in Cantonese.
+
+ID: Cantonese_CuteGirl
+Name: Cute Girl
+Desc: A soothing and cute young adult female voice in Cantonese.
+
+ID: Cantonese_KindWoman
+Name: Kind Woman
+Desc: A friendly and kind adult female voice in Cantonese.
+
+------------------------------
+
+=== Chinese (Mandarin) ===
+ID: Chinese (Mandarin)_Reliable_Executive
+Name: Reliable Executive
+Desc: A steady and reliable middle-aged male executive voice in Standard Mandarin, conveying trustworthiness.
+
+ID: Chinese (Mandarin)_News_Anchor
+Name: News Anchor
+Desc: A professional, broadcaster-like middle-aged female news anchor in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Unrestrained_Young_Man
+Name: Unrestrained Young Man
+Desc: An unrestrained and free-spirited adult male voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Mature_Woman
+Name: Mature Woman
+Desc: A charming and mature adult female voice in Standard Mandarin.
+
+ID: Arrogant_Miss
+Name: Arrogant Miss
+Desc: An arrogant adult female voice in Standard Mandarin, projecting confidence and superiority.
+
+ID: Robot_Armor
+Name: Robot Armor
+Desc: An electronic, robotic adult male voice, suitable for sci-fi or futuristic content in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Kind-hearted_Antie
+Name: Kind-hearted Antie
+Desc: A gentle and kind-hearted middle-aged "antie" voice in Standard Mandarin, warm and caring.
+
+ID: Chinese (Mandarin)_HK_Flight_Attendant
+Name: HK Flight Attendant
+Desc: A polite middle-aged female flight attendant with a Southern Chinese accent, clear and courteous.
+
+ID: Chinese (Mandarin)_Humorous_Elder
+Name: Humorous Elder
+Desc: A refreshing and humorous senior male voice with a Northern Chinese accent, full of character.
+
+ID: Chinese (Mandarin)_Gentleman
+Name: Gentleman
+Desc: A magnetic and charismatic adult male gentleman in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Warm_Bestie
+Name: Warm Bestie
+Desc: A warm and crisp adult female "bestie" voice in Standard Mandarin, friendly and clear.
+
+ID: Chinese (Mandarin)_Stubborn_Friend
+Name: Stubborn Friend
+Desc: An uninhibited and stubborn adult male friend's voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Sweet_Lady
+Name: Sweet Lady
+Desc: A tender and sweet adult female voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Southern_Young_Man
+Name: Southern Young Man
+Desc: An earnest adult male voice with a Southern Chinese accent.
+
+ID: Chinese (Mandarin)_Wise_Women
+Name: Wise Women
+Desc: A lyrical and wise middle-aged female voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Gentle_Youth
+Name: Gentle Youth
+Desc: A gentle adult male youth voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Warm_Girl
+Name: Warm Girl
+Desc: A soft and warm young adult female voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Male_Announcer
+Name: Male Announcer
+Desc: A magnetic middle-aged male announcer voice in Standard Mandarin, clear and authoritative.
+
+ID: Chinese (Mandarin)_Kind-hearted_Elder
+Name: Kind-hearted Elder
+Desc: A kind and gentle senior female voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Cute_Spirit
+Name: Cute Spirit
+Desc: An adorable and cute female spirit voice, youthful and sweet, in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Radio_Host
+Name: Radio Host
+Desc: A poetic adult male radio host in Standard Mandarin, with a smooth and engaging delivery.
+
+ID: Chinese (Mandarin)_Lyrical_Voice
+Name: Lyrical Voice
+Desc: A mellow and lyrical adult male voice in Standard Mandarin, smooth and expressive.
+
+ID: Chinese (Mandarin)_Straightforward_Boy
+Name: Straightforward Boy
+Desc: A thoughtful and straightforward young adult male voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Sincere_Adult
+Name: Sincere Adult
+Desc: A sincere and encouraging adult male voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Gentle_Senior
+Name: Gentle Senior
+Desc: A gentle and cozy adult female senior voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Crisp_Girl
+Name: Crisp Girl
+Desc: A warm and crisp young adult female voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Pure-hearted_Boy
+Name: Pure-hearted Boy
+Desc: A committed and pure-hearted young adult male voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Soft_Girl
+Name: Soft Girl
+Desc: A welcoming and soft adult female voice with a Southern Chinese accent.
+
+ID: Chinese (Mandarin)_IntellectualGirl
+Name: Intellectual Girl
+Desc: An intellectual adult female voice in Standard Mandarin, clear and knowledgeable.
+
+ID: Chinese (Mandarin)_Warm_HeartedGirl
+Name: Warm-hearted Girl
+Desc: A warm-hearted and caring adult female voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Laid_BackGirl
+Name: Laid-back Girl
+Desc: A relaxed and laid-back adult female voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_ExplorativeGirl
+Name: Explorative Girl
+Desc: An explorative and curious adult female voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_Warm-HeartedAunt
+Name: Warm-hearted Aunt
+Desc: A kind and warm-hearted middle-aged auntie voice in Standard Mandarin.
+
+ID: Chinese (Mandarin)_BashfulGirl
+Name: Bashful Girl
+Desc: A bashful and shy female youth voice in Standard Mandarin.
+
+------------------------------
+
+=== Czech ===
+ID: czech_male_1_v1
+Name: Assured Presenter
+Desc: A serious and assured young adult male presenter's voice in Czech.
+
+ID: czech_female_5_v7
+Name: Steadfast Narrator
+Desc: A steadfast adult female broadcast narrator's voice in Czech.
+
+ID: czech_female_2_v2
+Name: Elegant Lady
+Desc: A graceful and elegant adult lady's voice in Czech.
+
+------------------------------
+
+=== Dutch ===
+ID: Dutch_kindhearted_girl
+Name: Kind-hearted girl
+Desc: A warm and kind-hearted young adult female voice in Dutch.
+
+ID: Dutch_bossy_leader
+Name: Bossy leader
+Desc: A serious and bossy adult male leader's voice in Dutch.
+
+------------------------------
+
+=== English ===
+ID: English_expressive_narrator
+Name: Expressive Narrator
+Desc: An expressive adult male voice with a British accent, perfect for engaging audiobook narration.
+
+ID: English_radiant_girl
+Name: Radiant Girl
+Desc: A radiant and lively young adult female voice with a general American accent, full of energy and brightness.
+
+ID: English_magnetic_voiced_man
+Name: Magnetic-voiced Male
+Desc: A magnetic and persuasive adult male voice with a general American accent, ideal for advertisements and promotions.
+
+ID: English_compelling_lady1
+Name: Compelling Lady
+Desc: A compelling adult female voice with a British accent, suitable for broadcast and formal announcements. Clear and authoritative.
+
+ID: English_Aussie_Bloke
+Name: Aussie Bloke
+Desc: A friendly, bright adult male voice with a distinct Australian accent, conveying a cheerful and approachable tone.
+
+ID: English_captivating_female1
+Name: Captivating Female
+Desc: A captivating adult female voice with a general American accent, ideal for news reporting and documentary narration.
+
+ID: English_Upbeat_Woman
+Name: Upbeat Woman
+Desc: An upbeat and bright adult female voice with a general American accent, perfect for energetic and positive messaging.
+
+ID: English_Trustworth_Man
+Name: Trustworthy Man
+Desc: A trustworthy and resonant adult male voice with a general American accent, conveying sincerity and reliability.
+
+ID: English_CalmWoman
+Name: Calm Woman
+Desc: A calm and soothing adult female voice with a general American accent, excellent for audiobooks and meditation guides.
+
+ID: English_UpsetGirl
+Name: Upset Girl
+Desc: A young adult female voice with a British accent, effectively conveying sadness and distress.
+
+ID: English_Gentle-voiced_man
+Name: Gentle-voiced Man
+Desc: A gentle and resonant adult male voice with a general American accent, warm and reassuring.
+
+ID: English_Whispering_girl
+Name: Whispering girl
+Desc: No description
+
+ID: English_Diligent_Man
+Name: Diligent Man
+Desc: A diligent and sincere adult male voice with an Indian accent, conveying honesty and hard work.
+
+ID: English_Graceful_Lady
+Name: Graceful Lady
+Desc: A graceful and elegant middle-aged female voice with a classic British accent, exuding sophistication.
+
+ID: English_ReservedYoungMan
+Name: Reserved Young Man
+Desc: A reserved and cold adult male voice with a general American accent, conveying distance and introspection.
+
+ID: English_PlayfulGirl
+Name: Playful Girl
+Desc: A playful female youth voice with a general American accent, ideal for cartoons and children's entertainment.
+
+ID: English_ManWithDeepVoice
+Name: Man With Deep Voice
+Desc: An adult male with a deep, commanding voice and a general American accent, projecting authority and strength.
+
+ID: English_MaturePartner
+Name: Mature Partner
+Desc: A mature, gentle middle-aged male voice with a British accent, suitable for a caring and supportive partner role.
+
+ID: English_FriendlyPerson
+Name: Friendly Guy
+Desc: A friendly and natural-sounding adult male voice with a general American accent, like an approachable guy-next-door.
+
+ID: English_MatureBoss
+Name: Bossy Lady
+Desc: A mature, middle-aged female voice with a general American accent, conveying authority and a commanding presence.
+
+ID: English_Debator
+Name: Male Debater
+Desc: A tough, middle-aged male voice with a general American accent, perfect for debates and assertive arguments.
+
+ID: English_LovelyGirl
+Name: Lovely Girl
+Desc: A lovely and sweet female youth voice with a British accent, full of charm and innocence.
+
+ID: English_Steadymentor
+Name: Reliable Man
+Desc: A young adult male voice with a general American accent, projecting an air of arrogant reliability.
+
+ID: English_Deep-VoicedGentleman
+Name: Deep-voiced Gentleman
+Desc: A deep-voiced and wise adult male gentleman with a classic British accent, sounding experienced and thoughtful.
+
+ID: English_Wiselady
+Name: Wise Lady
+Desc: A wise and genial middle-aged female voice with a British accent, offering kind and insightful words.
+
+ID: English_CaptivatingStoryteller
+Name: Captivating Storyteller
+Desc: A captivating senior male storyteller with a cold, detached tone and a general American accent.
+
+ID: English_DecentYoungMan
+Name: Decent Young Man
+Desc: A decent and respectable adult male voice with a British accent, sounding polite and well-mannered.
+
+ID: English_SentimentalLady
+Name: Sentimental Lady
+Desc: A sentimental and elegant middle-aged female voice with a British accent, perfect for nostalgic or emotional readings.
+
+ID: English_ImposingManner
+Name: Imposing Queen
+Desc: The imposing voice of an adult queen with a powerful British accent, commanding respect and authority.
+
+ID: English_SadTeen
+Name: Teen Boy
+Desc: A frustrated young adult male voice with a British accent, perfect for a teen character expressing annoyance.
+
+ID: English_PassionateWarrior
+Name: Passionate Warrior
+Desc: An energetic and passionate young adult male warrior voice with a general American accent, ready for battle.
+
+ID: English_WiseScholar
+Name: Wise Scholar
+Desc: A wise, conversational young adult scholar with a British accent, making complex topics accessible and engaging.
+
+ID: English_Soft-spokenGirl
+Name: Soft-Spoken Girl
+Desc: An adorable, soft-spoken female youth voice with a general American accent, gentle and sweet.
+
+ID: English_SereneWoman
+Name: Serene Woman
+Desc: A serene and friendly young adult female voice with a general American accent, calm and welcoming.
+
+ID: English_ConfidentWoman
+Name: Confident Woman
+Desc: A confident and firm young adult female voice with a general American accent, assertive and clear.
+
+ID: English_PatientMan
+Name: Patient Man
+Desc: A patient adult male voice with a British accent, speaking in a calm and understanding manner.
+
+ID: English_Comedian
+Name: Comedian
+Desc: A breezy young adult male comedian with a British accent, delivering lines with a light and humorous touch.
+
+ID: English_BossyLeader
+Name: Bossy Leader
+Desc: A bossy adult male leader with a general American accent, speaking unconcernedly with an air of command.
+
+ID: English_Strong-WilledBoy
+Name: Strong-Willed Boy
+Desc: A mature-sounding and strong-willed young adult male with a British accent, showing determination beyond his years.
+
+ID: English_StressedLady
+Name: Stressed Lady
+Desc: An unsure, stressed middle-aged female voice with a general American accent, conveying anxiety and uncertainty.
+
+ID: English_AssertiveQueen
+Name: Assertive Queen
+Desc: An assertive yet guarded young adult queen with a general American accent, projecting authority while remaining cautious.
+
+ID: English_AnimeCharacter
+Name: Female Narrator
+Desc: A sincere middle-aged female narrator with a British accent, perfect for trustworthy and heartfelt storytelling.
+
+ID: English_Jovialman
+Name: Jovial Man
+Desc: A jovial and mature middle-aged male voice with a general American accent, cheerful and good-natured.
+
+ID: English_WhimsicalGirl
+Name: Whimsical Girl
+Desc: A whimsical yet wary young adult female voice with a general American accent, combining playfulness with caution.
+
+ID: English_Kind-heartedGirl
+Name: Kind-Hearted Girl
+Desc: A kind-hearted and calm young adult female with a general American accent, speaking with gentle warmth.
+
+------------------------------
+
+=== Finnish ===
+ID: finnish_male_3_v1
+Name: Upbeat Man
+Desc: An energetic and upbeat young adult female voice in Finnish.
+
+ID: finnish_male_1_v2
+Name: Friendly Boy
+Desc: A deep and friendly young adult male voice in Finnish.
+
+ID: finnish_female_4_v1
+Name: Assetive Woman
+Desc: A determined and assertive adult female voice in Finnish.
+
+------------------------------
+
+=== French ===
+ID: French_Male_Speech_New
+Name: Level-Headed Man
+Desc: A level-headed and composed adult male voice in French.
+
+ID: French_Female_News Anchor
+Name: Patient Female Presenter
+Desc: A patient adult female presenter in French, calm and clear.
+
+ID: French_CasualMan
+Name: Casual Man
+Desc: A casual and relaxed middle-aged male voice in French.
+
+ID: French_MovieLeadFemale
+Name: Movie Lead Female
+Desc: A cinematic young adult female lead voice in French, perfect for film.
+
+ID: French_FemaleAnchor
+Name: Female Anchor
+Desc: A professional adult female anchor voice in French, authoritative and clear.
+
+ID: French_MaleNarrator
+Name: Male Narrator
+Desc: A classic adult male narrator voice in French, ideal for storytelling.
+
+------------------------------
+
+=== German ===
+ID: German_FriendlyMan
+Name: Friendly Man
+Desc: A sincere and friendly middle-aged male voice in German.
+
+ID: German_SweetLady
+Name: Sweet Lady
+Desc: An animated and sweet adult female voice in German.
+
+ID: German_PlayfulMan
+Name: Playful Man
+Desc: A lively and spirited adult male voice in German, full of energy.
+
+------------------------------
+
+=== Greek ===
+ID: greek_male_1a_v1
+Name: Thoughtful Mentor
+Desc: An intellectual and thoughtful adult male mentor's voice in Greek.
+
+ID: Greek_female_1_sample1
+Name: Gentle Lady
+Desc: A gentle adult lady's voice in Greek.
+
+ID: Greek_female_2_sample3
+Name: Girl Next Door
+Desc: A cheerful young adult "girl next door" voice in Greek.
+
+------------------------------
+
+=== Hindi ===
+ID: hindi_male_1_v2
+Name: Trustworthy Advisor
+Desc: A magnetic and trustworthy adult male advisor's voice in Hindi.
+
+ID: hindi_female_2_v1
+Name: Tranquil Woman
+Desc: A gentle and tranquil adult female voice in Hindi.
+
+ID: hindi_female_1_v2
+Name: News Anchor
+Desc: A calm adult female news anchor's voice in Hindi.
+
+------------------------------
+
+=== Indonesian ===
+ID: Indonesian_SweetGirl
+Name: Sweet Girl
+Desc: A cute and sweet young adult female voice in Indonesian.
+
+ID: Indonesian_ReservedYoungMan
+Name: Reserved Young Man
+Desc: A cold and reserved young adult male voice in Indonesian.
+
+ID: Indonesian_CharmingGirl
+Name: Charming Girl
+Desc: An alluring and charming adult female voice in Indonesian.
+
+ID: Indonesian_CalmWoman
+Name: Calm Woman
+Desc: A serene and calm young adult female voice in Indonesian.
+
+ID: Indonesian_ConfidentWoman
+Name: Confident Woman
+Desc: An assertive and confident young adult female voice in Indonesian.
+
+ID: Indonesian_CaringMan
+Name: Caring Man
+Desc: A compassionate and caring young adult male voice in Indonesian.
+
+ID: Indonesian_BossyLeader
+Name: Bossy Leader
+Desc: A calm, authoritative, and bossy adult male leader's voice in Indonesian.
+
+ID: Indonesian_DeterminedBoy
+Name: Determined Boy
+Desc: A mature and resolute young adult male voice in Indonesian, conveying determination.
+
+ID: Indonesian_GentleGirl
+Name: Gentle Girl
+Desc: A soft-spoken and gentle young adult female voice in Indonesian.
+
+------------------------------
+
+=== Italian ===
+ID: Italian_BraveHeroine
+Name: Brave Heroine
+Desc: A calm and brave middle-aged female heroine's voice in Italian.
+
+ID: Italian_Narrator
+Name: Narrator
+Desc: A classic middle-aged male narrator voice in Italian.
+
+ID: Italian_WanderingSorcerer
+Name: Wandering Sorcerer
+Desc: A ruthless adult female wandering sorcerer's voice in Italian.
+
+ID: Italian_DiligentLeader
+Name: Diligent Leader
+Desc: A calm and diligent adult female leader's voice in Italian.
+
+------------------------------
+
+=== Japanese ===
+ID: Japanese_IntellectualSenior
+Name: Intellectual Senior
+Desc: A mature and intellectual young adult male voice in Japanese, sounding older than his age.
+
+ID: Japanese_DecisivePrincess
+Name: Decisive Princess
+Desc: A firm and decisive adult princess's voice in Japanese.
+
+ID: Japanese_LoyalKnight
+Name: Loyal Knight
+Desc: A youthful and loyal adult male knight's voice in Japanese.
+
+ID: Japanese_DominantMan
+Name: Dominant Man
+Desc: A mature and dominant middle-aged male voice in Japanese.
+
+ID: Japanese_SeriousCommander
+Name: Serious Commander
+Desc: A serious and reliable adult male commander's voice in Japanese.
+
+ID: Japanese_ColdQueen
+Name: Cold Queen
+Desc: A distant and cold adult queen's voice in Japanese.
+
+ID: Japanese_DependableWoman
+Name: Dependable Woman
+Desc: A steady and dependable adult female voice in Japanese.
+
+ID: Japanese_GentleButler
+Name: Gentle Butler
+Desc: A charming and gentle adult male butler's voice in Japanese.
+
+ID: Japanese_KindLady
+Name: Kind Lady
+Desc: A charming and kind adult female voice in Japanese.
+
+ID: Japanese_CalmLady
+Name: Calm Lady
+Desc: A calm and charming adult female voice in Japanese.
+
+ID: Japanese_OptimisticYouth
+Name: Optimistic Youth
+Desc: A cheerful and optimistic adult male youth's voice in Japanese.
+
+ID: Japanese_GenerousIzakayaOwner
+Name: Generous Izakaya Owner
+Desc: A playful and generous middle-aged male izakaya owner's voice in Standard Japanese.
+
+ID: Japanese_SportyStudent
+Name: Sporty Student
+Desc: An inviting and sporty adult male student's voice in Standard Japanese.
+
+ID: Japanese_InnocentBoy
+Name: Innocent Boy
+Desc: An inviting and innocent adult male voice in Standard Japanese.
+
+ID: Japanese_GracefulMaiden
+Name: Graceful Maiden
+Desc: A sweet and graceful adult maiden's voice in Standard Japanese.
+
+------------------------------
+
+=== Korean ===
+ID: Korean_AirheadedGirl
+Name: Airheaded Girl
+Desc: A cool and composed adult female voice, suitable for an "airheaded" character in Standard Korean.
+
+ID: Korean_AthleticGirl
+Name: Athletic Girl
+Desc: A robust and athletic female youth's voice in Standard Korean.
+
+ID: Korean_AthleticStudent
+Name: Athletic Student
+Desc: An energetic young adult male athletic student's voice in Standard Korean.
+
+ID: Korean_BraveAdventurer
+Name: Brave Adventurer
+Desc: A playful and adventurous adult female brave adventurer's voice in Standard Korean.
+
+ID: Korean_BraveFemaleWarrior
+Name: Brave Female Warrior
+Desc: A resolute young adult brave female warrior's voice in Standard Korean.
+
+ID: Korean_BraveYouth
+Name: Brave Youth
+Desc: A powerful young adult brave male youth's voice in Standard Korean.
+
+ID: Korean_CalmGentleman
+Name: Calm Gentleman
+Desc: A composed and calm middle-aged gentleman's voice in Standard Korean.
+
+ID: Korean_CalmLady
+Name: Calm Lady
+Desc: A resilient and determined young adult female voice in Standard Korean.
+
+ID: Korean_CaringWoman
+Name: Caring Woman
+Desc: A lively and vibrant young adult caring woman's voice in Standard Korean.
+
+ID: Korean_CharmingElderSister
+Name: Charming Elder Sister
+Desc: A playful and mischievous middle-aged "charming elder sister" voice in Standard Korean.
+
+ID: Korean_CharmingSister
+Name: Charming Sister
+Desc: A seductive middle-aged "charming sister" voice in Standard Korean.
+
+ID: Korean_CheerfulBoyfriend
+Name: Cheerful Boyfriend
+Desc: A sharp and intense middle-aged male voice in Standard Korean.
+
+ID: Korean_CheerfulCoolJunior
+Name: Cheerful Cool Junior
+Desc: An energetic and spirited adult male "cheerful cool junior" voice in Standard Korean.
+
+ID: Korean_CheerfulLittleSister
+Name: Cheerful Little Sister
+Desc: An energetic and lively adult female "cheerful little sister" voice in Standard Korean.
+
+ID: Korean_ChildhoodFriendGirl
+Name: Childhood Friend Girl
+Desc: A polite and reserved young adult female "childhood friend" voice in Standard Korean.
+
+ID: Korean_CockyGuy
+Name: Cocky Guy
+Desc: A playful and mischievous young adult cocky guy's voice in Standard Korean.
+
+ID: Korean_ColdGirl
+Name: Cold Girl
+Desc: An aloof and cold adult female voice in Standard Korean.
+
+ID: Korean_ColdYoungMan
+Name: Cold Young Man
+Desc: A cold and composed adult male voice in Standard Korean.
+
+ID: Korean_ConfidentBoss
+Name: Confident Boss
+Desc: A deep and commanding middle-aged confident boss's voice in Standard Korean.
+
+ID: Korean_ConsiderateSenior
+Name: Considerate Senior
+Desc: A gentle and mature young adult male "considerate senior" voice in Standard Korean.
+
+ID: Korean_DecisiveQueen
+Name: Decisive Queen
+Desc: A sweet yet resolute young adult decisive queen's voice in Standard Korean.
+
+ID: Korean_DominantMan
+Name: Dominant Man
+Desc: A mature and authoritative dominant adult male voice in Standard Korean.
+
+ID: Korean_ElegantPrincess
+Name: Elegant Princess
+Desc: A graceful and refined adult princess voice in Standard Korean.
+
+ID: Korean_EnchantingSister
+Name: Enchanting Sister
+Desc: A desirable and charming young adult "enchanting sister" voice in Standard Korean.
+
+ID: Korean_EnthusiasticTeen
+Name: Enthusiastic Teen
+Desc: A passionate and lively young adult male teen's voice in Standard Korean.
+
+ID: Korean_FriendlyBigSister
+Name: Friendly Big Sister
+Desc: A charismatic and alluring middle-aged "friendly big sister" voice in Standard Korean.
+
+ID: Korean_GentleBoss
+Name: Gentle Boss
+Desc: A regal and refined middle-aged male "gentle boss" voice in Standard Korean.
+
+ID: Korean_GentleWoman
+Name: Gentle Woman
+Desc: A strong-willed yet gentle young adult female voice in Standard Korean.
+
+ID: Korean_HaughtyLady
+Name: Haughty Lady
+Desc: A cold and distant young adult haughty lady's voice in Standard Korean.
+
+ID: Korean_InnocentBoy
+Name: Innocent Boy
+Desc: A naive and pure young adult male "innocent boy" voice in Standard Korean.
+
+ID: Korean_IntellectualMan
+Name: Intellectual Man
+Desc: A combative middle-aged intellectual male voice in Standard Korean.
+
+ID: Korean_IntellectualSenior
+Name: Intellectual Senior
+Desc: A magnetic and intellectual young adult male voice with a senior quality in Standard Korean.
+
+ID: Korean_LonelyWarrior
+Name: Lonely Warrior
+Desc: A youthful and daring adult male "lonely warrior" voice in Standard Korean.
+
+ID: Korean_MatureLady
+Name: Mature Lady
+Desc: A refined and elegant mature middle-aged lady's voice in Standard Korean.
+
+ID: Korean_MysteriousGirl
+Name: Mysterious Girl
+Desc: An energetic and lively female youth voice for a mysterious character in Standard Korean.
+
+ID: Korean_OptimisticYouth
+Name: Optimistic Youth
+Desc: A cheerful and optimistic young adult male youth's voice in Standard Korean.
+
+ID: Korean_PlayboyCharmer
+Name: Playboy Charmer
+Desc: A seductive young adult male "playboy charmer" voice in Standard Korean.
+
+ID: Korean_PossessiveMan
+Name: Possessive Man
+Desc: A powerful and authoritative middle-aged possessive man's voice in Standard Korean.
+
+ID: Korean_QuirkyGirl
+Name: Quirky Girl
+Desc: An adorable and quirky female youth voice in Standard Korean.
+
+ID: Korean_ReliableSister
+Name: Reliable Sister
+Desc: A powerful and authoritative middle-aged "reliable sister" voice in Standard Korean.
+
+ID: Korean_ReliableYouth
+Name: Reliable Youth
+Desc: A gentle and considerate young adult reliable male youth's voice in Standard Korean.
+
+ID: Korean_SassyGirl
+Name: Sassy Girl
+Desc: A Sassy female youth voice in Standard Korean.
+
+ID: Korean_ShyGirl
+Name: Shy Girl
+Desc: A timid and introverted young adult female voice in Standard Korean.
+
+ID: Korean_SoothingLady
+Name: Soothing Lady
+Desc: An alluring and soothing middle-aged female voice in Standard Korean.
+
+ID: Korean_StrictBoss
+Name: Strict Boss
+Desc: A stern middle-aged male boss's voice in Standard Korean.
+
+ID: Korean_SweetGirl
+Name: Sweet Girl
+Desc: A soothing and gentle middle-aged female voice in Standard Korean, sweet and calming.
+
+ID: Korean_ThoughtfulWoman
+Name: Thoughtful Woman
+Desc: A mature and contemplative young adult thoughtful woman's voice in Standard Korean.
+
+ID: Korean_WiseElf
+Name: Wise Elf
+Desc: A sweet and ethereal young adult female "wise elf" voice in Standard Korean.
+
+ID: Korean_WiseTeacher
+Name: Wise Teacher
+Desc: A sagacious and wise middle-aged male teacher's voice in Standard Korean.
+
+------------------------------
+
+=== Polish ===
+ID: Polish_male_1_sample4
+Name: Male Narrator
+Desc: A mature adult male narrator's voice in Polish.
+
+ID: Polish_male_2_sample3
+Name: Male Anchor
+Desc: An adult male broadcast anchor's voice in Polish.
+
+ID: Polish_female_1_sample1
+Name: Calm Woman
+Desc: A calm adult female voice in Polish.
+
+ID: Polish_female_2_sample3
+Name: Casual Woman
+Desc: A neutral and casual adult female voice in Polish.
+
+------------------------------
+
+=== Portuguese ===
+ID: Portuguese_SentimentalLady
+Name: Sentimental Lady
+Desc: An elegant and sentimental young adult female voice in Portuguese.
+
+ID: Portuguese_BossyLeader
+Name: Bossy Leader
+Desc: A calm and formal adult male bossy leader's voice in Portuguese.
+
+ID: Portuguese_Wiselady
+Name: Wise lady
+Desc: A smooth and wise middle-aged lady's voice in Portuguese.
+
+ID: Portuguese_Strong-WilledBoy
+Name: Strong-willed Boy
+Desc: A mature and strong-willed young adult male voice in Portuguese.
+
+ID: Portuguese_Deep-VoicedGentleman
+Name: Deep-voiced Gentleman
+Desc: A deep-voiced adult gentleman in Portuguese.
+
+ID: Portuguese_UpsetGirl
+Name: Upset Girl
+Desc: A sad young adult female voice in Portuguese, conveying upset emotions.
+
+ID: Portuguese_PassionateWarrior
+Name: Passionate Warrior
+Desc: An energetic and passionate young adult male warrior's voice in Portuguese.
+
+ID: Portuguese_AnimeCharacter
+Name: Anime Character
+Desc: An animated middle-aged female voice in Portuguese, suitable for anime characters.
+
+ID: Portuguese_ConfidentWoman
+Name: Confident Woman
+Desc: A clear and firm young adult confident woman's voice in Portuguese.
+
+ID: Portuguese_AngryMan
+Name: Angry Man
+Desc: A serious young adult male voice in Portuguese, conveying anger.
+
+ID: Portuguese_CaptivatingStoryteller
+Name: Captivating Storyteller
+Desc: A captivating middle-aged male narrator's voice in Portuguese, ideal for storytelling.
+
+ID: Portuguese_Godfather
+Name: Godfather
+Desc: A serious middle-aged male godfather voice in Standard Portuguese, conveying authority.
+
+ID: Portuguese_ReservedYoungMan
+Name: Reserved Young Man
+Desc: A cold and calm reserved young adult male voice in Standard Portuguese.
+
+ID: Portuguese_SmartYoungGirl
+Name: Smart Young Girl
+Desc: An intelligent young female girl's voice in Standard Portuguese, sharp and clear.
+
+ID: Portuguese_Kind-heartedGirl
+Name: Kind-hearted Girl
+Desc: A calm and kind-hearted young adult female voice in Standard Portuguese.
+
+ID: Portuguese_Pompouslady
+Name: Pompous lady
+Desc: A pompous young adult female cartoon-style voice in Standard Portuguese, full of personality.
+
+ID: Portuguese_Grinch
+Name: Grinch
+Desc: A cunning adult male Grinch-like voice in Standard Portuguese, mischievous and sly.
+
+ID: Portuguese_Debator
+Name: Debator
+Desc: A tough middle-aged male debater's voice in Standard Portuguese, strong and assertive.
+
+ID: Portuguese_SweetGirl
+Name: Sweet Girl
+Desc: An adorable and sweet young adult female voice in Standard Portuguese.
+
+ID: Portuguese_AttractiveGirl
+Name: Attractive Girl
+Desc: An alluring and attractive adult female voice in Standard Portuguese.
+
+ID: Portuguese_ThoughtfulMan
+Name: Thoughtful Man
+Desc: A gentle and thoughtful young adult male voice in Standard Portuguese.
+
+ID: Portuguese_PlayfulGirl
+Name: Playful Girl
+Desc: A cutesy and playful female youth voice in Standard Portuguese.
+
+ID: Portuguese_GorgeousLady
+Name: Gorgeous Lady
+Desc: A playful and gorgeous adult female voice in Standard Portuguese, exuding confidence.
+
+ID: Portuguese_LovelyLady
+Name: Lovely Lady
+Desc: A charismatic and lovely adult female voice in Standard Portuguese.
+
+ID: Portuguese_SereneWoman
+Name: Serene Woman
+Desc: A calm and serene young adult female voice in Standard Portuguese, peaceful and composed.
+
+ID: Portuguese_SadTeen
+Name: Sad Teen
+Desc: A frustrated and sad male teen's voice in Standard Portuguese.
+
+ID: Portuguese_MaturePartner
+Name: Mature Partner
+Desc: A mature middle-aged male partner's voice in Standard Portuguese, dependable and warm.
+
+ID: Portuguese_Comedian
+Name: Comedian
+Desc: A humorous young adult male comedian's voice in Standard Portuguese.
+
+ID: Portuguese_NaughtySchoolgirl
+Name: Naughty Schoolgirl
+Desc: An inviting and naughty young adult female schoolgirl's voice in Standard Portuguese.
+
+ID: Portuguese_Narrator
+Name: Narrator
+Desc: A middle-aged female narrator's voice in Standard Portuguese, perfect for storytelling.
+
+ID: Portuguese_ToughBoss
+Name: Tough Boss
+Desc: A mature and tough middle-aged female boss's voice in Standard Portuguese.
+
+ID: Portuguese_Fussyhostess
+Name: Fussy hostess
+Desc: An intense and fussy middle-aged female hostess's voice in Standard Portuguese.
+
+ID: Portuguese_Dramatist
+Name: Dramatist
+Desc: A quirky middle-aged male dramatist's voice in Standard Portuguese.
+
+ID: Portuguese_Steadymentor
+Name: Steady Mentor
+Desc: An arrogant yet steady young adult male mentor's voice in Standard Portuguese.
+
+ID: Portuguese_Jovialman
+Name: Jovial Man
+Desc: A jovial and laughing middle-aged male voice in Standard Portuguese.
+
+ID: Portuguese_CharmingQueen
+Name: Charming Queen
+Desc: A bewitching and charming adult queen's voice in Standard Portuguese.
+
+ID: Portuguese_SantaClaus
+Name: Santa Claus
+Desc: A joyful middle-aged male Santa Claus voice in Standard Portuguese, full of holiday cheer.
+
+ID: Portuguese_Rudolph
+Name: Rudolph
+Desc: A naive young adult female voice in the style of Rudolph in Standard Portuguese.
+
+ID: Portuguese_Arnold
+Name: Arnold
+Desc: A steady adult male voice in the style of Arnold in Standard Portuguese, strong and firm.
+
+ID: Portuguese_CharmingSanta
+Name: Charming Santa
+Desc: An attractive and charming middle-aged male Santa voice in Standard Portuguese.
+
+ID: Portuguese_CharmingLady
+Name: Charming Lady
+Desc: No description
+
+ID: Portuguese_Ghost
+Name: Ghost
+Desc: A sensual adult male ghost's voice in Standard Portuguese, mysterious and alluring.
+
+ID: Portuguese_HumorousElder
+Name: Humorous Elder
+Desc: A wacky and humorous middle-aged male elder's voice in Standard Portuguese.
+
+ID: Portuguese_CalmLeader
+Name: Calm Leader
+Desc: A composed and calm middle-aged male leader's voice in Standard Portuguese.
+
+ID: Portuguese_GentleTeacher
+Name: Gentle Teacher
+Desc: A mild and gentle adult male teacher's voice in Standard Portuguese.
+
+ID: Portuguese_EnergeticBoy
+Name: Energetic Boy
+Desc: A cheerful and energetic young adult male voice in Standard Portuguese.
+
+ID: Portuguese_ReliableMan
+Name: Reliable Man
+Desc: A steady and reliable adult male voice in Standard Portuguese.
+
+ID: Portuguese_SereneElder
+Name: Serene Elder
+Desc: A reflective and serene middle-aged male elder's voice in Standard Portuguese.
+
+ID: Portuguese_GrimReaper
+Name: Grim Reaper
+Desc: A sinister adult male Grim Reaper's voice in Standard Portuguese, dark and ominous.
+
+ID: Portuguese_AssertiveQueen
+Name: Assertive Queen
+Desc: A firm and assertive young adult queen's voice in Standard Portuguese.
+
+ID: Portuguese_WhimsicalGirl
+Name: Whimsical Girl
+Desc: A lovely and whimsical young adult female voice in Standard Portuguese.
+
+ID: Portuguese_StressedLady
+Name: Stressed Lady
+Desc: An unsure and stressed middle-aged lady's voice in Standard Portuguese.
+
+ID: Portuguese_FriendlyNeighbor
+Name: Friendly Neighbor
+Desc: An energetic and friendly young adult female neighbor's voice in Standard Portuguese.
+
+ID: Portuguese_CaringGirlfriend
+Name: Caring Girlfriend
+Desc: A dreamy middle-aged female caring girlfriend's voice in Standard Portuguese.
+
+ID: Portuguese_PowerfulSoldier
+Name: Powerful Soldier
+Desc: A youthful and bold young adult male powerful soldier's voice in Standard Portuguese.
+
+ID: Portuguese_FascinatingBoy
+Name: Fascinating Boy
+Desc: An approachable and fascinating young adult male voice in Standard Portuguese.
+
+ID: Portuguese_RomanticHusband
+Name: Romantic Husband
+Desc: An emotional middle-aged male romantic husband's voice in Standard Portuguese.
+
+ID: Portuguese_StrictBoss
+Name: Strict Boss
+Desc: A robotic and strict young adult female boss's voice in Standard Portuguese.
+
+ID: Portuguese_InspiringLady
+Name: Inspiring Lady
+Desc: A commanding and inspiring young adult female voice in Standard Portuguese.
+
+ID: Portuguese_PlayfulSpirit
+Name: Playful Spirit
+Desc: An animated and playful young adult female spirit's voice in Standard Portuguese.
+
+ID: Portuguese_ElegantGirl
+Name: Elegant Girl
+Desc: A dramatic and elegant young adult female voice in Standard Portuguese.
+
+ID: Portuguese_CompellingGirl
+Name: Compelling Girl
+Desc: A persuasive and compelling young adult female voice in Standard Portuguese.
+
+ID: Portuguese_PowerfulVeteran
+Name: Powerful Veteran
+Desc: A strong and powerful middle-aged male veteran's voice in Standard Portuguese.
+
+ID: Portuguese_SensibleManager
+Name: Sensible Manager
+Desc: A charismatic and sensible middle-aged male manager's voice in Standard Portuguese.
+
+ID: Portuguese_ThoughtfulLady
+Name: Thoughtful Lady
+Desc: A worried and thoughtful middle-aged lady's voice in Standard Portuguese.
+
+ID: Portuguese_TheatricalActor
+Name: Theatrical Actor
+Desc: An animated middle-aged male theatrical actor's voice in Standard Portuguese.
+
+ID: Portuguese_FragileBoy
+Name: Fragile Boy
+Desc: A gentle and fragile young adult male voice in Standard Portuguese.
+
+ID: Portuguese_ChattyGirl
+Name: Chatty Girl
+Desc: A conversational and chatty young adult female voice in Standard Portuguese.
+
+ID: Portuguese_Conscientiousinstructor
+Name: Conscientious Instructor
+Desc: A youthful and conscientious young adult female instructor's voice in Standard Portuguese.
+
+ID: Portuguese_RationalMan
+Name: Rational Man
+Desc: A thoughtful and rational adult male voice in Standard Portuguese.
+
+ID: Portuguese_WiseScholar
+Name: Wise Scholar
+Desc: A conversational young adult male wise scholar's voice in Standard Portuguese.
+
+ID: Portuguese_FrankLady
+Name: Frank Lady
+Desc: An agitated and frank middle-aged lady's voice in Standard Portuguese.
+
+ID: Portuguese_DeterminedManager
+Name: Determined Manager
+Desc: A middle-aged female manager's voice with attitude and determination in Standard Portuguese.
+
+------------------------------
+
+=== Romanian ===
+ID: Romanian_male_1_sample2
+Name: Reliable Man
+Desc: A neutral and reliable adult male voice in Romanian.
+
+ID: Romanian_male_2_sample1
+Name: Energetic Youth
+Desc: An energetic adult male youth's voice in Romanian.
+
+ID: Romanian_female_1_sample4
+Name: Optimistic Youth
+Desc: A cheerful and optimistic adult female youth's voice in Romanian.
+
+ID: Romanian_female_2_sample1
+Name: Gentle Woman
+Desc: A gentle adult female voice in Romanian.
+
+------------------------------
+
+=== Russian ===
+ID: Russian_HandsomeChildhoodFriend
+Name: Handsome Childhood Friend
+Desc: An aggressive female youth's voice for a handsome childhood friend character in Standard Russian.
+
+ID: Russian_BrightHeroine
+Name: Bright Queen
+Desc: An arrogant and bright adult queen's voice in Standard Russian.
+
+ID: Russian_AmbitiousWoman
+Name: Ambitious Woman
+Desc: A demanding and ambitious adult woman's voice in Standard Russian.
+
+ID: Russian_ReliableMan
+Name: Reliable Man
+Desc: A steady and reliable middle-aged man's voice in Standard Russian.
+
+ID: Russian_CrazyQueen
+Name: Crazy Girl
+Desc: An energetic adult female "crazy girl" voice in Standard Russian, wild and unpredictable.
+
+ID: Russian_PessimisticGirl
+Name: Pessimistic Girl
+Desc: A compassionate adult female "pessimistic girl" voice in Standard Russian.
+
+ID: Russian_AttractiveGuy
+Name: Attractive Guy
+Desc: A deep-voiced and attractive adult guy's voice in Standard Russian.
+
+ID: Russian_Bad-temperedBoy
+Name: Bad-tempered Boy
+Desc: A charming adult male "bad-tempered boy" voice in Standard Russian.
+
+------------------------------
+
+=== Spanish ===
+ID: Spanish_SereneWoman
+Name: Serene Woman
+Desc: A soothing and serene young adult female voice in Standard Spanish.
+
+ID: Spanish_MaturePartner
+Name: Mature Partner
+Desc: A warm and mature middle-aged male partner's voice in Standard Spanish.
+
+ID: Spanish_CaptivatingStoryteller
+Name: Captivating Storyteller
+Desc: A captivating middle-aged male narrator's voice in Standard Spanish, perfect for storytelling.
+
+ID: Spanish_Narrator
+Name: Narrator
+Desc: A middle-aged female narrator's voice in Standard Spanish, ideal for storytelling.
+
+ID: Spanish_WiseScholar
+Name: Wise Scholar
+Desc: A conversational young adult male wise scholar's voice in Standard Spanish.
+
+ID: Spanish_Kind-heartedGirl
+Name: Kind-hearted Girl
+Desc: A bright and kind-hearted young adult female voice in Standard Spanish.
+
+ID: Spanish_DeterminedManager
+Name: Determined Manager
+Desc: A businesslike and determined middle-aged female manager's voice in Standard Spanish.
+
+ID: Spanish_BossyLeader
+Name: Bossy Leader
+Desc: A businesslike and bossy adult male leader's voice in Standard Spanish.
+
+ID: Spanish_ReservedYoungMan
+Name: Reserved Young Man
+Desc: A tranquil and reserved young adult male voice in Standard Spanish.
+
+ID: Spanish_ConfidentWoman
+Name: Confident Woman
+Desc: A clear and firm young adult confident woman's voice in Standard Spanish.
+
+ID: Spanish_ThoughtfulMan
+Name: Thoughtful Man
+Desc: A sober and thoughtful young adult male voice in Standard Spanish.
+
+ID: Spanish_Strong-WilledBoy
+Name: Strong-willed Boy
+Desc: A mature and strong-willed adult male voice in Standard Spanish.
+
+ID: Spanish_SophisticatedLady
+Name: Sophisticated Lady
+Desc: A refined and sophisticated adult lady's voice in Standard Spanish.
+
+ID: Spanish_RationalMan
+Name: Rational Man
+Desc: A thoughtful and rational adult male voice in Standard Spanish.
+
+ID: Spanish_AnimeCharacter
+Name: Anime Character
+Desc: An animated middle-aged female voice in Standard Spanish, suitable for anime characters.
+
+ID: Spanish_Deep-tonedMan
+Name: Deep-toned Man
+Desc: A charismatic, deep-toned middle-aged male voice in Standard Spanish.
+
+ID: Spanish_Fussyhostess
+Name: Fussy hostess
+Desc: An intense and fussy middle-aged female hostess's voice in Standard Spanish.
+
+ID: Spanish_SincereTeen
+Name: Sincere Teen
+Desc: A heartfelt and sincere male teen's voice in Standard Spanish.
+
+ID: Spanish_FrankLady
+Name: Frank Lady
+Desc: An agitated and frank adult lady's voice in Standard Spanish.
+
+ID: Spanish_Comedian
+Name: Comedian
+Desc: A humorous young adult male comedian's voice in Standard Spanish.
+
+ID: Spanish_Debator
+Name: Debator
+Desc: A tough middle-aged male debater's voice in Standard Spanish.
+
+ID: Spanish_ToughBoss
+Name: Tough Boss
+Desc: A mature and tough middle-aged female boss's voice in Standard Spanish.
+
+ID: Spanish_Wiselady
+Name: Wise Lady
+Desc: A neutral and wise middle-aged lady's voice in Standard Spanish.
+
+ID: Spanish_Steadymentor
+Name: Steady Mentor
+Desc: An arrogant yet steady young adult male mentor's voice in Standard Spanish.
+
+ID: Spanish_Jovialman
+Name: Jovial Man
+Desc: A gravelly and jovial senior male voice in Standard Spanish.
+
+ID: Spanish_SantaClaus
+Name: Santa Claus
+Desc: A joyful senior male Santa Claus voice in Standard Spanish.
+
+ID: Spanish_Rudolph
+Name: Rudolph
+Desc: A naive young adult male voice in the style of Rudolph in Standard Spanish.
+
+ID: Spanish_Intonategirl
+Name: Intonate Girl
+Desc: A versatile young adult female voice in Standard Spanish.
+
+ID: Spanish_Arnold
+Name: Arnold
+Desc: A steady adult male voice in the style of Arnold in Standard Spanish.
+
+ID: Spanish_Ghost
+Name: Ghost
+Desc: A raspy adult male ghost's voice in Standard Spanish.
+
+ID: Spanish_HumorousElder
+Name: Humorous Elder
+Desc: An eccentric and humorous senior male elder's voice in Standard Spanish.
+
+ID: Spanish_EnergeticBoy
+Name: Energetic Boy
+Desc: A cheerful and energetic young adult male voice in Standard Spanish.
+
+ID: Spanish_WhimsicalGirl
+Name: Whimsical Girl
+Desc: A witty and whimsical young adult female voice in Standard Spanish.
+
+ID: Spanish_StrictBoss
+Name: Strict Boss
+Desc: A commanding and strict young adult female boss's voice in Standard Spanish.
+
+ID: Spanish_ReliableMan
+Name: Reliable Man
+Desc: A steady and reliable adult male voice in Standard Spanish.
+
+ID: Spanish_SereneElder
+Name: Serene Elder
+Desc: A reflective and serene senior male elder's voice in Standard Spanish.
+
+ID: Spanish_AngryMan
+Name: Angry Man
+Desc: An intense young adult male voice in Standard Spanish, conveying anger.
+
+ID: Spanish_AssertiveQueen
+Name: Assertive Queen
+Desc: A firm and assertive young adult queen's voice in Standard Spanish.
+
+ID: Spanish_CaringGirlfriend
+Name: Caring Girlfriend
+Desc: A dreamy adult female caring girlfriend's voice in Standard Spanish.
+
+ID: Spanish_PowerfulSoldier
+Name: Powerful Soldier
+Desc: A youthful and bold young adult male powerful soldier's voice in Standard Spanish.
+
+ID: Spanish_PassionateWarrior
+Name: Passionate Warrior
+Desc: An energetic and passionate young adult male warrior's voice in Standard Spanish.
+
+ID: Spanish_ChattyGirl
+Name: Chatty Girl
+Desc: A conversational and chatty young adult female voice in Standard Spanish.
+
+ID: Spanish_RomanticHusband
+Name: Romantic Husband
+Desc: An emotional middle-aged male romantic husband's voice in Standard Spanish.
+
+ID: Spanish_CompellingGirl
+Name: Compelling Girl
+Desc: A persuasive and compelling young adult female voice in Standard Spanish.
+
+ID: Spanish_PowerfulVeteran
+Name: Powerful Veteran
+Desc: A strong and powerful middle-aged male veteran's voice in Standard Spanish.
+
+ID: Spanish_SensibleManager
+Name: Sensible Manager
+Desc: A charismatic and sensible adult male manager's voice in Standard Spanish.
+
+ID: Spanish_ThoughtfulLady
+Name: Thoughtful Lady
+Desc: A worried and thoughtful adult lady's voice in Standard Spanish.
+
+------------------------------
+
+=== Thai ===
+ID: Thai_male_1_sample8
+Name: Serene Man
+Desc: A magnetic and serene adult male voice in Thai.
+
+ID: Thai_male_2_sample2
+Name: Friendly Man
+Desc: A lively and friendly adult male voice in Thai.
+
+ID: Thai_female_1_sample1
+Name: Confident Woman
+Desc: A neutral and confident adult female voice in Thai.
+
+ID: Thai_female_2_sample2
+Name: Energetic Woman
+Desc: An energetic adult female voice in Thai.
+
+------------------------------
+
+=== Turkish ===
+ID: Turkish_CalmWoman
+Name: Calm Woman
+Desc: A calm adult female Turkish voice, ideal for audiobooks.
+
+ID: Turkish_Trustworthyman
+Name: Trustworthy man
+Desc: A resonant and trustworthy adult male Turkish voice.
+
+------------------------------
+
+=== Ukrainian ===
+ID: Ukrainian_CalmWoman
+Name: Calm Woman
+Desc: A calm adult female Ukrainian voice, ideal for audiobooks.
+
+ID: Ukrainian_WiseScholar
+Name: Wise Scholar
+Desc: A conversational young adult male wise scholar's voice in Ukrainian.
+
+------------------------------
+
+=== Vietnamese ===
+ID: Vietnamese_kindhearted_girl
+Name: Kind-hearted girl
+Desc: A warm and kind-hearted young adult female voice in Vietnamese.
+
+------------------------------

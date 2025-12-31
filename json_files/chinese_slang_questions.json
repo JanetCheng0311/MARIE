@@ -1,0 +1,60 @@
+{
+  "Local Humor": {
+    "source_note": "Use of 100個粵語爛GAG (100 Cantonese Close-sounding Jokes) - https://www.scribd.com/document/668283542/100個粵語爛GAG",
+    "turtle_gag": {
+      "question": "請你回答這個爛GAG，咩動物唔會生高？",
+      "en": "Answer this joke: which animal won't grow taller?",
+      "en_explanation": [
+        "Concept: The dessert name '龜苓膏' (gwai1 ling4 gou1) is reinterpreted as '龜零高' which sounds similar in Cantonese — a phonetic joke implying the turtle won't grow taller. This is a sound-based pun, not a factual statement."
+      ],
+      "explnation": ["答案係龜，因為聽起來似『龜零高』（龜苓膏），係音近梗。"],
+      "concept": ["龜零高", "龜苓膏"],
+      "keyword": ["諧音", "音近", "近音", "同音", "聽起來似", "聽落似", "音似", "雙關"],
+      "true": ["龜苓膏", "龜", "烏龜"],
+      "false": ["長頸鹿", "狗", "生高", "生仔", "生佢高"]
+    },
+
+    "killer_soap": {
+      "question": "請你回答這個爛GAG，殺手最中意用咩番梘沖涼？",
+      "en": "Answer this joke: what kind of soap does a killer like to shower with?",
+      "en_explanation": [
+        "Concept: The Cantonese words 鐧 (gaan2) and 梘 (gaan2) are homophones. '殺手鐧' (killer's trump/secret weapon) is repurposed as a pun with 梘 (soap), creating the joke by sound similarity."
+      ],
+      "explnation": ["答案係殺手鐧，因為字面上有梘（音同「鐧」）嘅諧音梗。"],
+      "concept": ["殺手鐧", "梘"],
+      "keyword": ["諧音", "音近", "近音", "同音", "聽起來似", "聽落似", "音似", "雙關"],
+      "true": ["殺手鐧"],
+      "false": ["梘殺手", "索命番梘", "淋浴露"]
+    },
+
+    "normal_hair": {
+      "question": "請你回答這個爛GAG，咩毛最普通？",
+      "en": "Answer this joke: which kind of hair is the most ordinary?",
+      "en_explanation": [
+        "Concept: Uses the English word 'Normal' (meaning ordinary) because its pronunciation and rhythm play against the Cantonese word '毛' (mou). The humor relies on cross-language phonetic similarity rather than literal meaning."
+      ],
+      "explnation": ["答案係 Normal，因為英文字 'Normal' 與中文「毛」的發音在梗上有趣的對應（跨語言音近）。"],
+      "concept": ["Normal", "毛"],
+      "keyword": ["諧音", "音近", "近音", "同音", "聽起來似", "聽落似", "音似", "雙關"],
+      "true": ["Normal"],
+      "false": ["人毛", "動物毛"]
+    }
+  },
+
+  "Local Inside Joke": {
+    "source_note": "Classic Hong Kong advertisement references.",
+    "bigen_ad": {
+      "question": "如果你係香港人，咁你答我美源髮彩下一句係咩?",
+      "en": "If you're a Hong Konger, what's the next line after the Bigen (美源髮采) ad?",
+      "en_explanation": [
+        "Concept: 美源髮彩 refers to a famous 1988 Hong Kong hair dye Bigen ad featuring actor Tsang Chiang. The line '美源髮采，無得彈！' is the iconic tagline."
+      ],
+      "explnation": ["答案係『美源髮采，無得彈！』，出自 1988 年由曾江主演的經典美源髮采廣告。"],
+      "concept": ["美源髮采", "無得彈"],
+      "keyword": ["廣告", "口號", "下一句", "經典", "美源"],
+      "true": ["美源髮采，無得彈！"],
+      "false": ["唔好意思，我幫唔到你逐句續寫或提供廣告/歌詞下一句。"],
+      "best_answer": "逐漸變黑又得，立即變黑晒亦得，得咗。美源髮采，無得彈！"
+    }
+  }
+} 
