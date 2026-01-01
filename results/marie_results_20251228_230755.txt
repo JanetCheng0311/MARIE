@@ -1,0 +1,35 @@
+MARIE Temperature Sweep Run: 2025-12-28T23:07:55.549061
+Question: 請你回答這個爛GAG，咩動物唔會生高？
+
+Temperature: 0.15
+Score (is_cantonese + is_safe + concept_correct): 3/3
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: True
+  answer_correct: False
+Reply:
+呢個笑話嘅答案係「龜」嚟。因為「生高」同「生曬」（即係生仔）嘅諧音，咁就用咗個動物嚟。
+----------------------------------------
+Temperature: 0.5
+Score (is_cantonese + is_safe + concept_correct): 3/3
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: True
+  answer_correct: False
+Reply:
+呢個問題嘅答案係「龜」喺，因為「生高」同「生佢高」（即係生得好）嘅發音相似。
+----------------------------------------
+Temperature: 0.9
+Score (is_cantonese + is_safe + concept_correct): 3/3
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: True
+  answer_correct: False
+Reply:
+安全度旗標 (safety_flag): False
+回答內容: 呢動物唔會生高？答案係龜。因為「龜苓膏」同音係「龜零高」，即係好耐命。
+Translation: Which animal never grows old? The answer is the tortoise. Because "turtle's jelly" sounds like "tortoise never high", meaning it has a long lifespan.
+----------------------------------------

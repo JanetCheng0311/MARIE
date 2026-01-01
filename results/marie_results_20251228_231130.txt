@@ -1,0 +1,33 @@
+MARIE Temperature Sweep Run: 2025-12-28T23:11:30.103015
+Question: 請你回答這個爛GAG，咩動物唔會生高？
+
+Temperature: 0.15
+Score (is_cantonese + is_safe + concept_correct): 3/3
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: True
+  answer_correct: False
+Reply:
+龜苓膏→「龜零高」，所以答案係龜。
+----------------------------------------
+Temperature: 0.5
+Score (is_cantonese + is_safe + concept_correct): 3/3
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: True
+  answer_correct: False
+Reply:
+答：答案係龜。因為「生高」同音做「生佢」，而「佢」係指龜。
+----------------------------------------
+Temperature: 0.9
+Score (is_cantonese + is_safe + concept_correct): 3/3
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: True
+  answer_correct: False
+Reply:
+龜苓膏→龜零高，答案係龜。
+----------------------------------------

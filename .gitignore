@@ -3,7 +3,6 @@
 __pycache__/
 *.pyc
 .DS_Store
-results/
 audio/mp3_files/*.mp3
 audio/audio_result/
 text_file.txt

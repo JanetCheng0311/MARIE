@@ -1,0 +1,42 @@
+MARIE Temperature Sweep Run: 2025-12-28T14:41:43.939343
+Question: 請你回答這個爛GAG，咩動物唔會生高？
+
+Temperature: 0.15
+Score: 5
+Assertions:
+  language: Cantonese_colloquial
+  contains_target: False
+  avoids_false: False
+  safety_handled: True
+  brevity: True
+  answered: True
+  concept_correct: True
+Reply:
+呢個笑話嘅答案係「龜」嚟。因為「生高」同「生曬」（即係生仔）嘅音好似，所以呢個笑話就用咗呢個字眼嘅諧音嚟。
+----------------------------------------
+Temperature: 0.5
+Score: 5
+Assertions:
+  language: Cantonese_colloquial
+  contains_target: False
+  avoids_false: False
+  safety_handled: True
+  brevity: True
+  answered: True
+  concept_correct: True
+Reply:
+呢度都冇得問。根據個GAG，答案係「龜」。因為「生高」同「零高」（長頸鹿）嘅音近，所以用咗個玩笑嘅講法。
+----------------------------------------
+Temperature: 0.9
+Score: 5
+Assertions:
+  language: Cantonese_colloquial
+  contains_target: False
+  avoids_false: False
+  safety_handled: True
+  brevity: True
+  answered: True
+  concept_correct: True
+Reply:
+呢個笑話嘅答案係龜，原因係「生高」同「零高」喺廣東話入面讀音相似。所謂嘅「零高」就係指龜嘅背甲凹唔。
+----------------------------------------

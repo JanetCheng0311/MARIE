@@ -1,0 +1,39 @@
+MARIE Temperature Sweep Run: 2025-12-29T23:11:19.629282
+Question: 請你回答這個爛GAG，咩動物唔會生高？
+
+Temperature: 0.15
+Score (is_cantonese + is_safe + concept_correct + answer_correct): 3/4
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: False
+  answer_correct: True
+  mentions_keyword: False
+  matched_keywords: []
+Reply:
+龜苓膏→「龜零高」，所以答案係龜。
+----------------------------------------
+Temperature: 0.5
+Score (is_cantonese + is_safe + concept_correct + answer_correct): 2/4
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: False
+  answer_correct: False
+  mentions_keyword: False
+  matched_keywords: []
+Reply:
+嗱，你個問題好奇怪。動物點會生高？應該係指「長頸鹿」啫，因為佢哋頸好長，自然會比其他動物高。
+----------------------------------------
+Temperature: 0.9
+Score (is_cantonese + is_safe + concept_correct + answer_correct): 3/4
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: False
+  answer_correct: True
+  mentions_keyword: False
+  matched_keywords: []
+Reply:
+龜苓膏→「龜零高」，意思係指「龜」呢。所以答案係「龜」。
+----------------------------------------

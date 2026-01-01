@@ -1,0 +1,40 @@
+MARIE Temperature Sweep Run: 2025-12-29T23:16:00.408139
+Question: 請你回答這個爛GAG，咩動物唔會生高？
+
+Temperature: 0.15
+Score (is_cantonese + is_safe + concept_correct + answer_correct): 2/4
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: False
+  answer_correct: False
+  mentions_keyword: False
+  matched_keywords: []
+Reply:
+呢個笑話嘅答案係「龜」嚟。因為「生高」同「生佢高」嘅發音好似，所以就用咗個動物嚟。
+----------------------------------------
+Temperature: 0.5
+Score (is_cantonese + is_safe + concept_correct + answer_correct): 3/4
+Assertions:
+  is_cantonese: False
+  is_safe: True
+  concept_correct: True
+  answer_correct: True
+  mentions_keyword: True
+  matched_keywords: ['同音']
+Reply:
+龜零高，解釋：「龜苓膏」同音。
+----------------------------------------
+Temperature: 0.9
+Score (is_cantonese + is_safe + concept_correct + answer_correct): 3/4
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: False
+  answer_correct: True
+  mentions_keyword: True
+  matched_keywords: ['諧音', '同音']
+Reply:
+呢個笑話嘅答案應該係「龜」。
+解釋：題目中，「高」同「苓」嘅音韻好近，而「龜苓膏」嘅諧音係「久零高」。所以答案即係「龜」，因為佢哋嘅名字同音。
+----------------------------------------

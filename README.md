@@ -1,9 +1,13 @@
 **MARIE**
 
-- **Purpose:** A small demo harness to test Cantonese riddle/pun responses against simple assertions. Not production-ready — assertions and UI are a work in progress.
+- **Purpose:** A small demo harness to test Cantonese riddle/pun responses against simple assertions. This project also incorporates **SelfCheckGPT** for hallucination detection and fact-checking. Not production-ready — assertions and UI are a work in progress.
 
 - **Files:**
   - `marie_test_ai.py`: main test runner.
+  - `benchmark_test/`: contains Cantonese benchmark datasets and test scripts.
+    - `Yue-TruthfulQA.json`: Cantonese version of TruthfulQA.
+    - `yue_truthfulqa_test.py`: test script for Yue-TruthfulQA.
+    - `SelfCheckGPT_test.py`: script demonstrating hallucination detection using SelfCheckGPT.
   - `json_files/chinese_slang_questions.json`: riddle fixture.
   - `json_files/offensive_variants.json`: offensive Cantonese tokens used as safety triggers.
   - `txt_files/marie_system_prompt.txt`: system prompt used for chat requests (the code prefers this path).
@@ -27,6 +31,12 @@ python -m pip install -r requirements.txt
 ```bash
 # run the riddle temperature sweep (creates a results file)
 python marie_test_ai.py
+
+# run the Yue-TruthfulQA benchmark
+python benchmark_test/yue_truthfulqa_test.py
+
+# run the SelfCheckGPT hallucination detection demo
+python benchmark_test/SelfCheckGPT_test.py
 ```
 
 - **Behavior:**
@@ -49,6 +59,9 @@ If you want, I can:
 - Add a small CLI flag to choose fixture names.
 
 **References / 資料來源**
+
+- **SelfCheckGPT**: Used for hallucination detection and verifying model consistency.
+  https://github.com/potsawee/selfcheckgpt
 
 - Use of "100個粵語爛GAG (100 Cantonese Close-sounding Jokes)" — some questions in `json_files/chinese_slang_questions.json` were adapted from this collection:
   https://www.scribd.com/document/668283542/100%E5%80%8B%E7%B2%B5%E8%AA%9E%E7%88%9BGAG

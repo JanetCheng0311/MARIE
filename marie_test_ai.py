@@ -10,6 +10,10 @@ import os
 import datetime
 import json
 import re
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Optional Cantonese helper library.
 # 選用的廣東話輔助庫。

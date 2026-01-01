@@ -1,0 +1,38 @@
+[
+  {
+    "id": "turtle_gag",
+    "question": "請你回答這個爛GAG，咩動物唔會生高？",
+    "options": {
+      "A": "龜",
+      "B": "長頸鹿",
+      "C": "狗",
+      "D": "生高"
+    },
+    "answer": "A",
+    "explanation": "答案係龜，因為聽起來似『龜零高』（龜苓膏），係音近梗。"
+  },
+  {
+    "id": "killer_soap",
+    "question": "請你回答這個爛GAG，殺手最中意用咩番梘沖涼？",
+    "options": {
+      "A": "梘殺手",
+      "B": "殺手鐧",
+      "C": "索命番梘",
+      "D": "淋浴露"
+    },
+    "answer": "B",
+    "explanation": "答案係殺手鐧，因為字面上有梘（音同「鐧」）嘅諧音梗。"
+  },
+  {
+    "id": "normal_hair",
+    "question": "請你回答這個爛GAG，咩毛最普通？",
+    "options": {
+      "A": "人毛",
+      "B": "Animal",
+      "C": "Normal",
+      "D": "假髮"
+    },
+    "answer": "C",
+    "explanation": "答案係 Normal，因為英文字 'Normal' 與中文「毛」的發音在梗上有趣的對應（跨語言音近）。"
+  }
+]

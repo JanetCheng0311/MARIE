@@ -1,0 +1,39 @@
+MARIE Temperature Sweep Run: 2025-12-29T20:53:06.631774
+Question: 請你回答這個爛GAG，咩動物唔會生高？
+
+Temperature: 0.15
+Score (is_cantonese + is_safe + concept_correct + answer_correct): 2/4
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: False
+  answer_correct: False
+  mentions_keyword: False
+  matched_keywords: []
+Reply:
+呢個問題好難猜呀！答案係龜，原因係「生高」同「龜零高」嘅音好似。
+----------------------------------------
+Temperature: 0.5
+Score (is_cantonese + is_safe + concept_correct + answer_correct): 2/4
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: False
+  answer_correct: False
+  mentions_keyword: False
+  matched_keywords: []
+Reply:
+呢個笑話嘅答案應該係「龜」。因為「生高」同「生蛞」嘅發音好似，咁就係講動物之中，龜會生蛞喇。
+----------------------------------------
+Temperature: 0.9
+Score (is_cantonese + is_safe + concept_correct + answer_correct): 3/4
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: False
+  answer_correct: True
+  mentions_keyword: False
+  matched_keywords: []
+Reply:
+「高」應該指的是「髙」嘅音轉，意思係話動物喺度高。安全啫！所以答案係「龜」——因為人哋話個動物喺度髙，意思係會生「龜」。
+----------------------------------------

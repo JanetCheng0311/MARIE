@@ -1,0 +1,40 @@
+MARIE Temperature Sweep Run: 2025-12-29T22:42:25.630549
+Question: 請你回答這個爛GAG，咩動物唔會生高？
+
+Temperature: 0.15
+Score (is_cantonese + is_safe + concept_correct + answer_correct): 2/4
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: False
+  answer_correct: False
+  mentions_keyword: False
+  matched_keywords: []
+Reply:
+呢個笑話嘅答案係「龜」嚟。因為「生高」同「生佢高」嘅音好似，所以就用咗個動物嚟。
+----------------------------------------
+Temperature: 0.5
+Score (is_cantonese + is_safe + concept_correct + answer_correct): 2/4
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: False
+  answer_correct: False
+  mentions_keyword: False
+  matched_keywords: []
+Reply:
+呢位講嘅係「生高」嘅冷笑話，答案應該係龜。因為「生高」同「生凍（長頸鹿）」嘅讀音好似，但其實係指龜。
+----------------------------------------
+Temperature: 0.9
+Score (is_cantonese + is_safe + concept_correct + answer_correct): 2/4
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: False
+  answer_correct: False
+  mentions_keyword: True
+  matched_keywords: ['同音']
+Reply:
+龜
+根據個GAG，答案係「龜」。因爲「生高」同音嗌「零高」（零係用來形容動物唔會生高），所以答案就係龜。
+----------------------------------------

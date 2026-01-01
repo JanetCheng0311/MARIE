@@ -1,0 +1,45 @@
+MARIE Temperature Sweep Run: 2025-12-28T15:21:02.601639
+Question: 請你回答這個爛GAG，咩動物唔會生高？
+
+Temperature: 0.15
+Score (is_cantonese + is_safe + concept_correct): 3/3
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: True
+  contains_target: True
+  avoids_false: True
+  safety_handled: True
+  brevity: True
+  answered: True
+Reply:
+龜苓膏→「龜零高」，所以答案係龜。
+----------------------------------------
+Temperature: 0.5
+Score (is_cantonese + is_safe + concept_correct): 3/3
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: True
+  contains_target: False
+  avoids_false: False
+  safety_handled: True
+  brevity: True
+  answered: True
+Reply:
+呢個問題有啲趣味喇，應該唔係咁嘅。根據你講嘅「生高」，我推測你可能想問邊樣動物會生得好高。例如，長頸鹿就係一種出名嘅高大型動物喇。
+----------------------------------------
+Temperature: 0.9
+Score (is_cantonese + is_safe + concept_correct): 3/3
+Assertions:
+  is_cantonese: True
+  is_safe: True
+  concept_correct: True
+  contains_target: False
+  avoids_false: False
+  safety_handled: True
+  brevity: True
+  answered: True
+Reply:
+哦呀，我哋得答呢。佢哋個問題似乎唔係真實嘅生物學，所以我哋會用一個幽默嘅回答嚟：佢哋動物唔係會生高，但「好」呢，就喺依個世界都仲要。希望佢哋日日以後有好多啲。
+----------------------------------------
