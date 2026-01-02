@@ -26,6 +26,43 @@ source .venv/bin/activate
 python -m pip install -r requirements.txt
 ```
 
+**Audio / Voice Cloning**
+
+- This repo includes scripts under `audio/` to create a cloned voice and to synthesize audio with it:
+  - `audio/minimax_voice_clone_v2.py` — uploads sample audio, creates a cloned `voice_id` (uses MiniMax `voice_clone`).
+  - `audio/use_cloned_voice.py` — generates TTS using a chosen `voice_id` (interactive selection supported).
+
+- Environment variables used by the audio scripts (set in `.env`):
+  - `MINIMAX_API_KEY` : your Minimax API key (required).
+  - `MINIMAX_API_URL` : base Minimax API URL (defaults to `https://api.minimaxi.chat/v1`).
+  - `MINIMAX_VOICE_IDS` : optional comma-separated list of voice ids to choose from in `use_cloned_voice.py`.
+  - `MAX_VOICE_SAMPLE_SECONDS` : maximum total seconds of samples to include when creating a clone (default `300`).
+  - `MAX_VOICE_SAMPLE_COUNT` : maximum number of files to include when creating a clone (default `7`).
+  - `MINIMAX_CLONE_MODEL` : model used for cloning (default `speech-2.6-hd`).
+  - `MINIMAX_CLONE_NOISE_REDUCTION` : `true|false` toggle to enable noise reduction on cloning (default `true`).
+  - `MINIMAX_CLONE_NORMALIZE` : `true|false` to enable volume normalization (default `true`).
+  - `MINIMAX_CLONE_PREVIEW_TEXT` : short preview text used to generate a demo audio when cloning.
+
+- Quick cloning flow:
+
+```bash
+# Prepare samples: place multiple .wav/.mp3 files in audio/mp3_files/
+cp .env.example .env
+# edit .env to add MINIMAX_API_KEY and optionally MINIMAX_API_URL
+/.venv/bin/python audio/minimax_voice_clone_v2.py
+# script will select sample files (respecting MAX_VOICE_SAMPLE_SECONDS/COUNT), upload, and create a voice id
+```
+
+- Generate speech using a cloned voice (interactive selection if multiple voices available):
+
+```bash
+/.venv/bin/python audio/use_cloned_voice.py
+# or specify voice and text
+/.venv/bin/python audio/use_cloned_voice.py --voice-id ClonedVoice20260102174103 --text "測試粵語語音"
+```
+
+If you want higher fidelity, prefer clean 48k WAV samples and increase `MAX_VOICE_SAMPLE_SECONDS` or `MAX_VOICE_SAMPLE_COUNT` within limits imposed by the API.
+
 - **Run demo:**
 
 ```bash
