@@ -8,6 +8,8 @@
     - `Yue-TruthfulQA.json`: Cantonese version of TruthfulQA.
     - `yue_truthfulqa_test.py`: test script for Yue-TruthfulQA.
     - `SelfCheckGPT_test.py`: script demonstrating hallucination detection using SelfCheckGPT.
+    - [benchmark_test/G-eval/g_eval_selfcheck_benchmark.py](benchmark_test/G-eval/g_eval_selfcheck_benchmark.py): g-eval style wrapper that runs `SelfCheckMQAG` (or a lightweight fallback) on items
+      and writes JSON + summary files to `benchmark_test/G-eval/`.
   - `json_files/chinese_slang_questions.json`: riddle fixture.
   - `json_files/offensive_variants.json`: offensive Cantonese tokens used as safety triggers.
   - `txt_files/marie_system_prompt.txt`: system prompt used for chat requests (the code prefers this path).
@@ -25,6 +27,35 @@ python -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
 ```
+
+Additional dependencies for the g-eval SelfCheck benchmark
+---------------------------------------------------------
+- If you want better sentence splitting (recommended) and `.docx` output, install into the project's venv:
+
+```bash
+# activate the project's venv first
+.venv/bin/python -m pip install python-docx
+.venv/bin/python -m pip install spacy
+.venv/bin/python -m spacy download en_core_web_sm
+```
+
+Notes:
+- The benchmark script will try to auto-add Spacy's `sentencizer` to avoid the common error:
+  `ValueError: [E030] Sentence boundaries unset.` — if you still see that error, run
+  `nlp.add_pipe('sentencizer')` in your pipeline or install a parser/senter component.
+- Run the benchmark with the project's Python to ensure correct environment:
+
+```bash
+.venv/bin/python benchmark_test/G-eval/g_eval_selfcheck_benchmark.py --input path/to/items.json --output benchmark_test/G-eval/results.json
+```
+
+Output & interpretation
+-----------------------
+- The script writes a JSON results file and a `.txt` (or `.docx`) summary in the same folder as the output.
+- Each item includes `scores` (sentence-level hallucination likelihoods) and a `verdict` determined by
+  matching `metadata.true` / `metadata.false` labels: `PASS` / `FAIL` / `AMBIGUOUS`.
+ - To prefer only `passage` matches (ignore `sampled_passages`) or change matching behavior, edit
+   [benchmark_test/G-eval/g_eval_selfcheck_benchmark.py](benchmark_test/G-eval/g_eval_selfcheck_benchmark.py) (there are clear comments in the file explaining how).
 
 **Audio / Voice Cloning**
 
