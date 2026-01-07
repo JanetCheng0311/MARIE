@@ -145,6 +145,91 @@ cp .env.example .env
 # edit .env and fill your keys
 ```
 
+**Detailed Description / 詳細說明**
+
+- **English:**
+  - MARIE is a lightweight test harness for evaluating conversational models on Cantonese riddles and short prompts. The main runner (`marie_test_ai.py`) sends prompts to a chat endpoint defined by the `SERVER_IP` environment variable, collects replies at multiple temperatures, applies simple assertion checks (language, safety, concept, answer), and writes timestamped run logs to the `results/` folder.
+  - The repository also includes benchmark utilities under `benchmark_test/` (G-eval style wrappers and SelfCheckGPT integration) and audio tools under `audio/` for voice cloning and TTS using the Minimax API.
+  - A convenience CLI (`audio/ai_minimax_tts_cli.py`) sends a single user question to your `SERVER_IP` AI, forces a Cantonese reply, then submits the reply to Minimax TTS, polls for completion, and downloads an MP3 to `audio_result/`.
+  - Common environment variables: `SERVER_IP`, `MINIMAX_API_KEY`, and optional voice IDs (see `.env`). Place API keys in `.env` and never commit them.
+
+- **繁體中文（說明）：**
+  - MARIE 是一個輕量的測試工具，主要用來評估對話模型在廣東話謎語／爛 GAG 上的回應。主要執行檔 `marie_test_ai.py` 會將提示發送到由 `SERVER_IP` 指定的聊天端點，並在多個溫度下取得回覆，執行簡單的斷言檢查（語言、安全、概念、答案），最後將帶時間戳的執行紀錄寫入 `results/`。
+  - 專案亦包含 `benchmark_test/`（以 G-eval 樣式包裝器與 SelfCheckGPT 整合）以及 `audio/` 的聲音複製與 TTS 工具，使用 Minimax 的 API 做語音合成或聲音克隆。
+  - 我提供了一個方便的指令列工具 `audio/ai_minimax_tts_cli.py`：它會向 `SERVER_IP` 詢問一條問題、要求以廣東話回覆，然後把回覆送給 Minimax 做 TTS，輪詢任務完成後將 MP3 下載到 `audio_result/`。
+  - 常用環境變數：`SERVER_IP`、`MINIMAX_API_KEY`、以及可選的 voice id（參見 `.env`）。請把金鑰放在 `.env` 中，並切勿提交到版本控制。
+
+**Folder Details / 資料夾說明**
+
+- **audio**
+  - English: Tools and demos for voice cloning and text-to-speech (TTS). Key scripts include [audio/minimax_voice_clone_v2.py](audio/minimax_voice_clone_v2.py), [audio/minimax_poll.py](audio/minimax_poll.py) (TTS job polling and download), and [audio/ai_minimax_tts_cli.py](audio/ai_minimax_tts_cli.py) (single-question CLI that queries `SERVER_IP` then creates Minimax TTS).
+  - 中文：聲音複製與語音合成的工具與示例，包含樣本上傳、建立 clone voice、建立非同步 TTS 任務、輪詢與下載音檔等流程。
+
+- **benchmark_test**
+  - English: Benchmark and evaluation scripts. Notable items: [benchmark_test/G-eval/g_eval_selfcheck_benchmark.py](benchmark_test/G-eval/g_eval_selfcheck_benchmark.py) (g-eval style runner), `benchmark_test/yue_truthfulqa_test.py` (Cantonese TruthfulQA runner).
+  - 中文：基準測試與評估腳本，包含 G-eval 樣式包裝器與粵語 TruthfulQA 的測試腳本。
+
+- **json_files**
+  - English: Dataset fixtures and lookups used by tests. Important files: [json_files/chinese_slang_questions.json](json_files/chinese_slang_questions.json) and [json_files/offensive_variants.json](json_files/offensive_variants.json).
+  - 中文：題庫與資料檔，例如謎題 JSON 與冒犯字詞清單，供主測試器與評估腳本載入使用。
+
+- **results**
+  - English: Runner outputs and timestamped logs. Keep these for result comparison and regression tracking.
+  - 中文：執行結果與紀錄檔，包含時間戳的輸出檔，便於回顧與比較不同測試執行。
+
+- **txt_files**
+  - English: Short text artifacts and supporting files such as [txt_files/marie_system_prompt.txt](txt_files/marie_system_prompt.txt) (preferred system prompt).
+  - 中文：小型文字檔與設定，常見為系統提示詞檔案，供 chat 請求使用。
+
+- **root scripts & misc**
+  - English: Top-level orchestrators like [marie_test_ai.py](marie_test_ai.py) (temperature sweep runner) and miscellaneous helpers.
+  - 中文：專案根目錄的主要執行檔，例如主測試器 `marie_test_ai.py`，負責載入題庫、呼叫聊天端點、評分並輸出結果。
+
+If you want, I can also add a short usage example for the CLI directly into this README.
+
+**Security & Git (hide secrets and runtime outputs) / 安全與 Git 建議**
+
+- English:
+  - Keep API keys and host endpoints in `.env` and never commit `.env` to git. If you accidentally committed secrets, remove them from the index (`git rm --cached <file>`) and rotate keys.
+  - Ignore runtime outputs and probe files that may contain hosts/keys. Recommended `.gitignore` entries (already suggested):
+
+```text
+probe_*.json
+*/probe_*.json
+results/
+marie_ai_test/results/
+benchmark_test/G-eval/results/
+```
+
+  - To untrack already committed files and stop tracking them while keeping them locally:
+
+```bash
+git rm --cached probe_100*.json
+git rm --cached -r marie_ai_test/results
+git commit -m "Remove probe/results from index; do not track runtime outputs"
+```
+
+- 中文：
+  - 請把 API 金鑰與主機位址放在 `.env`，切勿將 `.env` 提交到版本控制。若不慎提交，請從 index 中移除該檔並重置（rotate）金鑰。
+  - 建議將包含主機或輸出結果的檔案加入 `.gitignore`：
+
+```text
+probe_*.json
+*/probe_*.json
+results/
+marie_ai_test/results/
+benchmark_test/G-eval/results/
+```
+
+  - 若要停止追蹤已提交但不想保留在 repo 的檔案（保留本機檔案），請執行：
+
+```bash
+git rm --cached probe_100*.json
+git rm --cached -r marie_ai_test/results
+git commit -m "從索引移除 probe/results；停止追蹤執行輸出檔"
+```
+
+If you want, I can apply the `.gitignore` additions and run the `git rm --cached` commands for you.
 - `marie_test_ai.py` will use the `SERVER_IP` environment variable if present. You can also export it in your shell:
 
 ```

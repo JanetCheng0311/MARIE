@@ -10,3 +10,8 @@ voicebackup/
 mp3_files
 yue_benchmark
 audio_result/
+probe_*.json
+*/probe_*.json
+results/
+marie_ai_test/results/
+benchmark_test/G-eval/results/
