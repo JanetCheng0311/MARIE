@@ -1,3 +1,6 @@
 pycantonese
 gradio
 requests
+langfuse
+python-dotenv
+gradio_client

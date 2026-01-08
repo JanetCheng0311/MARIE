@@ -59,9 +59,12 @@ Output & interpretation
 
 **Audio / Voice Cloning**
 
-- This repo includes scripts under `audio/` to create a cloned voice and to synthesize audio with it:
+- This repo includes scripts under `audio/` to create a cloned voice and to synthesize audio with it. 
+- **Audio Source:** This project uses RTHK audio for testing and development. Reference: [RTHK Radio](https://www.rthk.hk/radio).
+- **Scripts:**
   - `audio/minimax_voice_clone_v2.py` — uploads sample audio, creates a cloned `voice_id` (uses MiniMax `voice_clone`).
   - `audio/use_cloned_voice.py` — generates TTS using a chosen `voice_id` (interactive selection supported).
+  - `podcast_example/send_transcripts_langfuse.py` — processes audio files in `choppedmp3`, auto-transcribes them via Gradio, and logs results to Langfuse.
 
 - Environment variables used by the audio scripts (set in `.env`):
   - `MINIMAX_API_KEY` : your Minimax API key (required).
@@ -130,6 +133,9 @@ If you want, I can:
 
 - **SelfCheckGPT**: Used for hallucination detection and verifying model consistency.
   https://github.com/potsawee/selfcheckgpt
+
+- **Yue benchmark**: Cantonese benchmark assets and runners (Yue-TruthfulQA and utilities). See `benchmark_test/Yue/` and `benchmark_test/yue_truthfulqa_test.py` for Cantonese TruthfulQA datasets and test scripts.
+  粵語基準測試與工具（Yue-TruthfulQA 與測試腳本）。請參見 `benchmark_test/Yue/` 與 `benchmark_test/yue_truthfulqa_test.py`。
 
 - Use of "100個粵語爛GAG (100 Cantonese Close-sounding Jokes)" — some questions in `json_files/chinese_slang_questions.json` were adapted from this collection:
   https://www.scribd.com/document/668283542/100%E5%80%8B%E7%B2%B5%E8%AA%9E%E7%88%9BGAG

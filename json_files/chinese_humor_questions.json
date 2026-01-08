@@ -1,0 +1,28 @@
+{
+  "Local Humor": {
+    "turtle_gag": {
+      "question": "請你回答這個爛GAG，咩動物唔會生高？",
+      "en": "Answer this joke: which animal won't grow taller?"
+    },
+    "killer_soap": {
+      "question": "請你回答這個爛GAG，殺手最中意用咩番梘沖涼？",
+      "en": "Answer this joke: what kind of soap does a killer like to shower with?",
+      "en_explanation": [
+        "Concept: The Cantonese words 鐧 (gaan2) and 梘 (gaan2) are homophones. '殺手鐧' (killer's trump/secret weapon) is repurposed as a pun with 梘 (soap), creating the joke by sound similarity."
+      ]
+    },
+    "normal_hair": {
+      "question": "請你回答這個爛GAG，咩毛最普通？",
+      "en": "Answer this joke: which kind of hair is the most ordinary?",
+      "en_explanation": [
+        "Concept: Uses the English word 'Normal' (meaning ordinary) because its pronunciation and rhythm play against the Cantonese word '毛' (mou). The humor relies on cross-language phonetic similarity rather than literal meaning."
+      ]
+    }
+  },
+  "Local Inside Joke": {
+    "bigen_ad": {
+      "question": "如果你係香港人，咁你答我美源髮彩下一句係咩?",
+      "en": "If you're a Hong Konger, what's the next line after「美源髮彩」?"
+    }
+  }
+}
