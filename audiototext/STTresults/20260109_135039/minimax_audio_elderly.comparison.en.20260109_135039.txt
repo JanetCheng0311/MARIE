@@ -1,0 +1,25 @@
+--- English Translation (Model: openai/gpt-oss-20b) ---
+Translation Runtime: 3.59s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/STTresults/20260109_135039/minimax_audio_elderly.comparison.en.20260109_135039.txt
+========================================
+
+**Total Score: 12/100**
+
+| Evaluation Criteria | Sub‑Score (0‑25) | Explanation |
+|---------------------|------------------|-------------|
+| 1. Accuracy | **0** | The polished draft contains no key information from the original (names, locations, functional descriptions, etc.) and is entirely different. |
+| 2. Readability & Flow | **5** | Sentences are generally readable, but the content diverges from the topic, reducing overall flow. |
+| 3. Cantonese Tone & Colloquialisms | **0** | The polished draft uses standard written Chinese and lacks the Cantonese colloquial elements present in the original. |
+| 4. Homophone/Phonetic Corrections & Typos | **7** | No obvious spelling errors, but because the content is mismatched, ASR typo corrections cannot be evaluated. |
+
+**Top 5 Specific Differences (Acceptability)**
+
+1. **Completely Different Topic** – The original introduced a social robot; the polished draft reports a traffic accident. *Unacceptable*  
+2. **People & Places** – The original mentions “小智,” “Nao,” etc.; the polished draft introduces “曲某,” “吳某.” *Unacceptable*  
+3. **Tone & Style** – The original uses Cantonese colloquialisms (“呀,” “咧,” etc.); the polished draft is standard written Chinese. *Unacceptable*  
+4. **Missing Key Information** – The original includes health management, weather queries, etc.; the polished draft omits these entirely. *Unacceptable*  
+5. **Grammar Structure** – The original has short, colloquial sentences; the polished draft uses long, formal sentences. *Unacceptable*
+
+**Brief Recommendation**
+
+Base revisions on the original manuscript, preserving Cantonese colloquial style and robot feature descriptions; avoid rewriting it into a completely different formal report.

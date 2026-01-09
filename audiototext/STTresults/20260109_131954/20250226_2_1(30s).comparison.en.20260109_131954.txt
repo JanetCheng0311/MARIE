@@ -1,0 +1,24 @@
+--- English Translation (Model: openai/gpt-oss-20b) ---
+Translation Runtime: 4.42s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/STTresults/20260109_131954/20250226_2_1(30s).comparison.en.20260109_131954.txt
+========================================
+
+**Total Score: 58/100**
+
+| Evaluation Criterion | Sub‑Score (40% → 25% → 20% → 15%) | Explanation |
+|-----------------------|-----------------------------------|-------------|
+| Accuracy (40%) | 18/20 | The original “陸雨光” was changed to “錢如光”, the phone number is incorrect, and some names and titles were altered, distorting key information. |
+| Readability & Flow (25%) | 12/15 | Sentences are generally smooth, but the original Cantonese flavor such as “咧” is missing and some sentences are truncated. |
+| Retention of Cantonese Tone & Colloquialisms (20%) | 8/10 | “咧” and other Cantonese particles are largely omitted, reducing the colloquial feel. |
+| Homophone/Phonetic Corrections & Typos (15%) | 10/15 | Some homophones were corrected, but errors remain (e.g., “廣大” should be “港大”). |
+
+**Top 5 Specific Differences (Acceptable or Not)**
+
+1. **Name Change**: Original “陸雨光” → Revised “錢如光”; *Not acceptable* – the original name must be retained.  
+2. **Phone Number Error**: Original “1872311” → Revised “172311”; *Not acceptable* – the number must be correct.  
+3. **Title & Institution Change**: Original “港大經管學院副院長鄧希維” → Revised “廣大經管學院副院長鄧希偉”; *Not acceptable* – institution and name must match.  
+4. **Missing Cantonese Particles**: Original “咧” and others omitted; *Acceptable* but recommended to keep for a natural colloquial style.  
+5. **Truncated Sentences**: Original “咁啊教授啊，剛才咧，有位聽眾觀眾咧都提到話咧， 就係今次預算案頭提出咧。” is cut off; *Not acceptable* – the full expression is required.
+
+**Brief Recommendation**  
+Restore the original names, phone number, and institution details, and retain Cantonese particles such as “咧” to ensure accurate information and natural colloquial tone.

@@ -1,0 +1,25 @@
+--- English Translation (Model: openai/gpt-oss-20b) ---
+Translation Runtime: 4.91s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/STTresults/20260109_134002/audio_trump.comparison.en.20260109_134002.txt
+========================================
+
+**Total Score: 12/100**
+
+| Evaluation Criteria | Sub‑Score (0‑25) | Explanation |
+|---------------------|------------------|-------------|
+| 1) Accuracy (40%) | **0/10** | The polished draft completely rewrote the text, leaving no key information from the original (names, locations, numbers, topic). |
+| 2) Readability & Flow (25%) | **5/6.25** | Sentence structure is generally smooth, but meaning is confusing and punctuation misuse still allows readability. |
+| 3) Cantonese Tone & Colloquial Retention (20%) | **2/5** | Although some Cantonese particles appear, much of the text uses Standard Chinese or British English expressions, diverging significantly from the original colloquial style. |
+| 4) Homophone/Phonetic Corrections & Typos (15%) | **5/3.75** | The text is largely correct, but it bears no relation to the original content and has a low typo rate. |
+
+**Top 5 Specific Differences (Acceptability)**
+
+1. **Topic Completely Different** – The original was a live broadcast on the fiscal budget; the polished draft discusses U.S. military actions. *Unacceptable*  
+2. **Names & Institutions** – The original mentions “陸雨光, 林志欣, 鄧希維教授”; the polished draft contains none. *Unacceptable*  
+3. **Numbers & Phone Numbers** – The original provides “1872311”; the polished draft omits any phone number. *Unacceptable*  
+4. **Tone & Colloquialism** – The original uses Cantonese particles like “咁”, “㗎”; the polished draft is mostly Standard Chinese with few Cantonese elements. *Acceptable but insufficient*  
+5. **Punctuation & Sentence Breaks** – The original uses short, colloquial sentences; the polished draft contains long sentences with punctuation errors. *Acceptable but needs improvement*
+
+**Brief Recommendation**
+
+Base the revision on the original draft, preserving the fiscal budget content, characters, and phone number, while maintaining a Cantonese colloquial style. Avoid inserting unrelated international political narratives.

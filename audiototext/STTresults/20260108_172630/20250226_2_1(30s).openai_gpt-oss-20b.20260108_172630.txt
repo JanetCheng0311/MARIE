@@ -1,0 +1,10 @@
+--- Result for Model: openai/gpt-oss-20b ---
+Audio API Runtime: 9.58s
+AI Correction Runtime: 11.96s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/results/20260108_172630/20250226_2_1(30s).openai_gpt-oss-20b.20260108_172630.txt
+========================================
+
+翻到第二節的財政預算案速敗，節目深埋繼續。  
+我係林志恩，亦係經濟學者廣大經管學院副院長鄧希偉教授。  
+各位聽眾觀眾，如果對今日發表的財政預算案有任何意見，歡迎打電話至 1723-111。  
+教授說剛才有位聽眾提到，這次預算案提出的內容…

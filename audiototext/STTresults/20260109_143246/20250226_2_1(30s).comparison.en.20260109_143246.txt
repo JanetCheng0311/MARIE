@@ -1,0 +1,30 @@
+--- English Translation (Model: openai/gpt-oss-20b) ---
+Translation Runtime: 5.01s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/STTresults/20260109_143246/20250226_2_1(30s).comparison.en.20260109_143246.txt
+========================================
+
+**Total Score: 68/100**
+
+| Evaluation Criteria | Sub‑Score (40% → 25% → 20% → 15%) | Explanation |
+|---------------------|----------------------------------|-------------|
+| 1) Accuracy | **25/40** | The original names “陸雨光、林志欣” were changed to “錢如光林志恩,” completely incorrect. The phone number was altered to “17231 or 172311” instead of the original “1872311.” The phrase “財政預算案速遞” was rendered as “速報,” deviating in meaning. |
+| 2) Readability & Flow | **12/25** | Sentences are better broken up, but word order still feels unnatural (e.g., “咁節目深入繼續”) and there is repetition of particles. |
+| 3) Retention of Cantonese Tone & Colloquialisms | **10/20** | Cantonese particles such as “咁” and “㗎” are kept, but “咁” is overused as a sentence‑final particle and common colloquialisms like “嘅” or “㗎” are missing. |
+| 4) Homophone/Phonetic Corrections & Typos | **11/15** | “速遞” correctly changed to “速報”; however, homophone errors like “錢如光” remain uncorrected, resulting in a high overall typo rate. |
+
+**Top 5 Specific Differences (Acceptability)**
+
+1. **Name Error**: Original “陸雨光、林志欣” → Edited “錢如光林志恩”.  
+   *Acceptable?* No – critical information is distorted.  
+2. **Phone Number Change**: Original “1872311” → Edited “17231 or 172311”.  
+   *Acceptable?* No – information does not match.  
+3. **Budget Description**: Original “速遞” → Edited “速報”.  
+   *Acceptable?* Partially – meaning is slightly off.  
+4. **Name “陸雨光” changed to “錢如光”**: Same as #1.  
+   *Acceptable?* No.  
+5. **Overuse of Sentence‑Final Particle “咁”**: Original had fewer instances; edited version uses it frequently.  
+   *Acceptable?* Partially – affects naturalness.
+
+**Brief Recommendation**
+
+Keep the original names, phone number, and key terms. Only correct homophone errors and make minor word‑order adjustments so the text preserves its original intent while sounding more natural in Cantonese.

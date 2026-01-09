@@ -1,0 +1,9 @@
+--- Result for Model: openai/gpt-oss-20b ---
+Audio API Runtime: 10.83s
+AI Correction Runtime: 2.39s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/results/20260108_173320/20250226_2_1(30s).openai_gpt-oss-20b.20260108_173320.txt
+========================================
+
+翻到第二節，財政預算案被迅速否決。節目繼續深入探討，我邀請了經濟學者、廣大經管學院副院長鄧希偉教授。各位聽眾若對今日的預算案有任何意見，歡迎撥打 1723-111 或 1723-112 與我們分享。
+
+教授說，剛才有位聽眾提到這次預算案的重點是……

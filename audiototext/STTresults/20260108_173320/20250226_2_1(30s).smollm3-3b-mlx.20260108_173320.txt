@@ -1,0 +1,10 @@
+--- Result for Model: smollm3-3b-mlx ---
+Audio API Runtime: 10.83s
+AI Correction Runtime: 1.59s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/results/20260108_173320/20250226_2_1(30s).smollm3-3b-mlx.20260108_173320.txt
+========================================
+
+<think>
+
+</think>
+翻到嚟第二節嘅財政預算案速敗啦咁節目深埋繼續有我錢如光林志恩以及咧系經濟學者廣大經管學院嘅副院長鄧希偉教授嘅咁各位聽眾觀眾如果對於今日發表嘅財政預算案有啲咩嘅意見嘅話都歡迎大家打電話嚟一百七二三一一一百七二三一一講下你嘅意見啊咁教授話剛才咧有位聽眾觀眾咧都提到話咧就係今次預算案提出咧

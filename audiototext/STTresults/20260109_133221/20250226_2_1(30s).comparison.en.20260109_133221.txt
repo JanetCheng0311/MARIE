@@ -1,0 +1,26 @@
+--- English Translation (Model: openai/gpt-oss-20b) ---
+Translation Runtime: 3.78s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/STTresults/20260109_133221/20250226_2_1(30s).comparison.en.20260109_133221.txt
+========================================
+
+**Total Score: 68/100**
+
+| Evaluation Criteria | Sub‑Score (40% → 25% → 20% → 15%) | Explanation |
+|---------------------|----------------------------------|-------------|
+| Accuracy (40%) | 18/20 | Most key information retained, but names, phone numbers, and figures contain errors. |
+| Readability & Flow (25%) | 12/15 | Sentence breaks are not natural and punctuation is inconsistent. |
+| Cantonese Tone & Colloquial Retention (20%) | 9/10 | Most Cantonese particles are kept, though some are overly simplified. |
+| Homophone / Near‑Homophone Corrections & Typos (15%) | 9/10 | Most ASR typos have been fixed, but some remain. |
+
+**Top 5 Specific Differences (Acceptable or Not)**
+
+1. **Name Error**: Original “陸雨光” → Edited “錢如光”; *unacceptable* – the original name must be preserved.  
+2. **Phone Number Error**: Original “1872311” → Edited “17231”; *unacceptable* – the correct number must be kept.  
+3. **Numerical Expression Error**: Original “第2節” → Edited “第二節”; *acceptable* – context allows the change.  
+4. **Punctuation Chaos**: Original “啦，” → Edited “啦!”; *acceptable* – but style should be consistent.  
+5. **Unnatural Sentence Breaks**: Original “咁直播室裡面繼續有我陸雨光、林志欣” → Edited “節目深埋繼續有我錢如光、林志恩”; *acceptable* – but the original meaning must remain.
+
+**Brief Recommendations**
+
+1. Verify all names, phone numbers, and figures to ensure accuracy.  
+2. Re‑adjust punctuation and sentence breaks to better match the original Cantonese colloquial style.

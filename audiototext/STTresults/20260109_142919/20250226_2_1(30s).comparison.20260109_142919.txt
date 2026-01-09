@@ -1,0 +1,6 @@
+--- Comparison for Model: qwen/qwen3-30b-a3b ---
+AI Comparison Runtime: 1.07s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/STTresults/20260109_142919/20250226_2_1(30s).comparison.20260109_142919.txt
+========================================
+
+<think>

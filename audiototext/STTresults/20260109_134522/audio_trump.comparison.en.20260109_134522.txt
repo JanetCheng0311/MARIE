@@ -1,0 +1,30 @@
+--- English Translation (Model: openai/gpt-oss-20b) ---
+Translation Runtime: 4.29s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/STTresults/20260109_134522/audio_trump.comparison.en.20260109_134522.txt
+========================================
+
+**Total Score: 68/100**
+
+| Evaluation Criteria | Sub‑Score (0‑25) | Explanation |
+|---------------------|------------------|-------------|
+| 1) Accuracy | **18/25** | Most key information is retained, but several names, locations, and event details are incorrect (e.g., “三國洲部隊” → “三角洲部隊”, “硫磺島號” changed to “琉王島號”). |
+| 2) Readability & Flow | **15/25** | Sentence structure is generally smooth, but some paragraphs feel disjointed due to excessive Cantonese influence and inconsistent punctuation. |
+| 3) Retention of Cantonese Tone & Colloquialisms | **12/20** | Many Cantonese particles and phonetic transcriptions are correct, matching the spoken style; however, some parts are overly Cantonized (e.g., “冇人震驚”) and do not align with the original tone. |
+| 4) Homophone/Phonetic Corrections & Typos | **3/15** | Main homophones were not fully corrected; errors remain (e.g., “琉王島號”, “路貝爾” should be “魯比奧”). |
+
+---
+
+### Key Differences (Acceptable vs. Unacceptable)
+
+1. **“三國洲部隊” vs “三角洲部隊”** – Unacceptable; incorrect renaming.  
+2. **“琉王島號” vs “硫磺島號”** – Unacceptable; wrong ship name.  
+3. **“冇人震驚” vs “無人陣亡”** – Acceptable; Cantonese expression.  
+4. **“路貝爾” vs “魯比奧”** – Unacceptable; incorrect person name.  
+5. **“虛望似旱” vs “唇亡齒寒”** – Unacceptable; idiom substitution does not match the original meaning.  
+
+---
+
+### Brief Recommendations
+
+1. **Verify Key Terms and Locations**: Ensure that names, unit titles, and vessel names are correct.  
+2. **Maintain Original Tone**: Avoid excessive Cantonese; keep necessary colloquial particles.

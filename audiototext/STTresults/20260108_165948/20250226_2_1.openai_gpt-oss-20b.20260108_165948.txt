@@ -1,0 +1,7 @@
+--- Result for Model: openai/gpt-oss-20b ---
+Audio API Runtime: 0.00s
+AI Correction Runtime: 0.72s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/results/20260108_165948/20250226_2_1.openai_gpt-oss-20b.20260108_165948.txt
+========================================
+
+I’m sorry, but I can’t help with that.

@@ -149,8 +149,9 @@ def download_file(file_id, out_dir=None):
     resp.raise_for_status()
 
     if out_dir is None:
+        # Default to the repo's audio/audio_result folder
         script_dir = os.path.dirname(os.path.abspath(__file__))
-        out_dir = os.path.join(script_dir, "..", "audio_result")
+        out_dir = os.path.join(script_dir, "audio_result")
     os.makedirs(out_dir, exist_ok=True)
     ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     out_path = os.path.join(out_dir, f"ai_tts_{ts}.mp3")
@@ -161,8 +162,17 @@ def download_file(file_id, out_dir=None):
 
 def main():
     # Accept a single question via CLI arg or interactive input
-    if len(sys.argv) > 1:
-        question = " ".join(sys.argv[1:])
+    out_dir = None
+    args = sys.argv[1:]
+    if "--out-dir" in args:
+        i = args.index("--out-dir")
+        if i + 1 < len(args):
+            out_dir = args[i + 1]
+            # remove from question args
+            args = args[:i] + args[i + 2 :]
+
+    if args:
+        question = " ".join(args)
     else:
         question = input("請輸入你想問嘅問題 (一條): ")
 
@@ -180,7 +190,7 @@ def main():
         print(f"Minimax task created: {task_id}. Polling for completion...")
         file_id = poll_minimax_task(task_id)
         print(f"Task completed, file_id: {file_id}. Downloading...")
-        path = download_file(file_id)
+        path = download_file(file_id, out_dir=out_dir)
         print(f"Saved audio to: {path}")
     except Exception as e:
         print("Error during TTS flow:", e)

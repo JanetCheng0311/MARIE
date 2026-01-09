@@ -1,0 +1,7 @@
+--- Result for Model: smollm3-3b-mlx ---
+Audio API Runtime: 63.13s
+AI Correction Runtime: 0.00s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/results/20260108_170831/20250226_2_1.smollm3-3b-mlx.20260108_170831.txt
+========================================
+
+<ERROR: HTTPConnectionPool(host='100.66.65.36', port=1234): Read timed out. (read timeout=180)>

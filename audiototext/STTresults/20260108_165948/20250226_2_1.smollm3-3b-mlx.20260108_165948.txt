@@ -1,0 +1,12 @@
+--- Result for Model: smollm3-3b-mlx ---
+Audio API Runtime: 0.00s
+AI Correction Runtime: 0.34s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/results/20260108_165948/20250226_2_1.smollm3-3b-mlx.20260108_165948.txt
+========================================
+
+<think>
+
+</think>
+[Traditional Chinese Characters Refinement]
+
+(Refined Cantonese Transcription)

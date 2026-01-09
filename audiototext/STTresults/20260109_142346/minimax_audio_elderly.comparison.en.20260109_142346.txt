@@ -1,0 +1,5 @@
+--- English Translation (Model: openai/gpt-oss-20b) ---
+Translation Runtime: 2.31s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/STTresults/20260109_142346/minimax_audio_elderly.comparison.en.20260109_142346.txt
+========================================
+

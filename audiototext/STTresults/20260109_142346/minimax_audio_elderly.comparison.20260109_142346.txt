@@ -1,0 +1,6 @@
+--- Comparison for Model: openai/gpt-oss-20b ---
+AI Comparison Runtime: 0.30s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/STTresults/20260109_142346/minimax_audio_elderly.comparison.20260109_142346.txt
+========================================
+
+<ERROR comparing scripts: 400 Client Error: Bad Request for url: http://100.66.65.36:1234/v1/chat/completions>

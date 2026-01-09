@@ -1,0 +1,30 @@
+--- English Translation (Model: openai/gpt-oss-20b) ---
+Translation Runtime: 4.29s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/STTresults/20260109_135620/minimax_audio_elderly.comparison.en.20260109_135620.txt
+========================================
+
+**Total Score: 78/100**
+
+| Evaluation Criteria | Sub‑Score (40% → 25% → 20% → 15%) | Explanation |
+|---------------------|----------------------------------|-------------|
+| 1) Accuracy | **32/40** | Most key information is retained, but “小智” was changed to “Miss”, and the robot names NOW and the white mini‑sea cannon Pearl are incorrect compared with the original text; personal names and locations are correct. |
+| 2) Readability & Flow | **20/25** | Sentences are generally smooth, but there is excessive punctuation and unnatural breaks (e.g., “每日早晨，我會準時叫醒你，話你知今日天氣同氣溫”). |
+| 3) Retention of Cantonese Tone & Colloquialisms | **12/20** | Most Cantonese particles are kept, but “Miss” and “台面助手型” are too formal; missing colloquial particles such as “㗎”, “咧”. |
+| 4) Homophone/Phonetic Corrections & Typos | **14/15** | Only the words “白色小海炮 Pearl” and “台面助手型” contain obvious typos; otherwise it is largely correct. |
+
+---
+
+### Key Differences (Acceptable or Not)
+
+1. **Robot name changed to “Miss”** – Unacceptable; the original clearly states “小智”.  
+2. **Added robot names NOW and white mini‑sea cannon Pearl** – Unacceptable; not mentioned in the source.  
+3. **“台面助手型” changed to “台面助手型”** – Acceptable; only a typographical variation.  
+4. **“中意” changed to “中意”** – Acceptable; Cantonese colloquialism.  
+5. **“我哋會提醒你食藥嘅時間” changed to “時刻”** – Acceptable; similar meaning.  
+
+---
+
+### Recommendations
+
+1. **Keep the original names and product descriptions** to avoid arbitrary renaming or adding non‑existent robots.  
+2. **Adjust colloquial wording** by inserting Cantonese particles like “㗎” and “咧” to make the tone closer to the original.

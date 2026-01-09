@@ -1,0 +1,21 @@
+--- English Translation (Model: openai/gpt-oss-20b) ---
+Translation Runtime: 1.88s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/STTresults/20260109_141808/minimax_audio_elderly.comparison.en.20260109_141808.txt
+========================================
+
+**Total Score: 0/100**
+
+- **Accuracy (40%)**: 0 – No comparable manuscript, cannot confirm whether key information is retained.  
+- **Readability and Flow (25%)**: 0 – No text.  
+- **Retention of Cantonese Tone and Colloquialism (20%)**: 0 – No text.  
+- **Correction of Homophones/Phonetically Similar Characters and Misspelling Rate (15%)**: 0 – No text.  
+
+**Top 5 Specific Deficiencies (Unacceptable)**  
+1. No refined manuscript for comparison.  
+2. All original content lost.  
+3. Unable to assess any linguistic features.  
+4. All key information (names, locations, numbers) lost.  
+5. Cannot determine if Cantonese particles were preserved.  
+
+**Recommendation**  
+Please resubmit a refined manuscript that includes the complete text so it can be evaluated.

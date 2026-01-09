@@ -1,0 +1,9 @@
+--- Result for Model: qwen/qwen3-vl-8b ---
+Audio API Runtime: 11.27s
+AI Correction Runtime: 2.94s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/STTresults/20260109_124655/20250226_2_1(30s).qwen_refined.20260109_124655.txt
+========================================
+
+翻到嚟第二節嘅財政預算案，速敗啦！節目深埋繼續有我錢如光、林志恩，以及經濟學者、廣大經管學院副院長鄧希偉教授。各位聽眾、觀眾，如果對於今日發表嘅財政預算案有啲咩意見，都歡迎大家打電話嚟 17231，講下你嘅意見啊！
+
+教授話，剛才咧有位聽眾觀眾都提到，就係今次預算案提出……

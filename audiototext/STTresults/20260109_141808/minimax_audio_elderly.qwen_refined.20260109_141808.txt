@@ -1,0 +1,7 @@
+--- Result for Model: qwen/qwen3-vl-30b ---
+Audio API Runtime: 65.43s
+AI Correction Runtime: 0.02s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/STTresults/20260109_141808/minimax_audio_elderly.qwen_refined.20260109_141808.txt
+========================================
+
+Error during refinement: 400 Client Error: Bad Request for url: http://100.66.65.36:1234/v1/chat/completions

@@ -1,0 +1,7 @@
+--- Result for Model: qwen/qwen3-vl-8b ---
+Audio API Runtime: 0.00s
+AI Correction Runtime: 8.44s
+Saved to: /Users/janet/Downloads/MARIE/audiototext/results/20260108_165948/20250226_2_1.qwen_qwen3-vl-8b.20260108_165948.txt
+========================================
+
+無需擔心，我們會為你處理一切。
